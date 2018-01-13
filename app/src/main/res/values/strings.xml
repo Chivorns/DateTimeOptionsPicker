@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DateTimeOptionsPickerDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_en">Month in English</string>
+    <string name="action_kh">Month in Khmer</string>
+    <string name="picker_custom_lunar">LunarDateTimePicker</string>
+    <string name="picker_date_time">DateTimePicker</string>
+    <string name="picker_province">OptionsPicker</string>
+    <string name="picker_custom_time">CustomLayoutDateTimePicker</string>
+    <string name="picker_custom_province">CustomLayoutOptionsPicker</string>
+    <string name="picker_custom_parent">CustomParentView</string>
+    <string name="picker_non_linkage">OptionsPicker(Non-Linkage)</string>
+    <string name="picker_json_parse_sample">AreaDataParseSample</string>
+    <string name="picker_text_parse">Parse Data</string>
+    <string name="picker_text_show">Show OptionsPicker</string>
+</resources>

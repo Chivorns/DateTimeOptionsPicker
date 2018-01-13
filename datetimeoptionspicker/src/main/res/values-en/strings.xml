@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="datetimeoptionspicker_cancel">Cancel</string>
+    <string name="datetimeoptionspicker_submit">Confirm</string>
+    <string name="datetimeoptionspicker_year"> </string>
+    <string name="datetimeoptionspicker_month"> </string>
+    <string name="datetimeoptionspicker_day"> </string>
+    <string name="datetimeoptionspicker_hours"> </string>
+    <string name="datetimeoptionspicker_minutes"> </string>
+    <string name="datetimeoptionspicker_seconds"> </string>
+</resources>

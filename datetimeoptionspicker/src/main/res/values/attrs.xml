@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="pickerview">
+        <attr name="pickerview_gravity">
+            <enum name="center" value="17" />
+            <enum name="left" value="3" />
+            <enum name="right" value="5" />
+        </attr>
+        <attr name="datetimeoptionspicker_textSize" format="dimension" />
+        <attr name="datetimeoptionspicker_textColorOut" format="color" />
+        <attr name="datetimeoptionspicker_textColorCenter" format="color" />
+        <attr name="datetimeoptionspicker_dividerColor" format="color" />
+        <attr name="datetimeoptionspicker_lineSpacingMultiplier" format="float" />
+    </declare-styleable>
+</resources>

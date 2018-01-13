@@ -1,0 +1,5354 @@
+[
+  {
+    "name": "Beijing City",
+    "city": [
+      {
+        "name": "Beijing City",
+        "area": [
+          "Dongcheng",
+          "Xicheng",
+          "Chongwen",
+          "Xuanwu",
+          "Chaoyang",
+          "Fengtai",
+          "Shijingshan",
+          "Haidian",
+          "Mentougou",
+          "Fangshan",
+          "Tongzhou District",
+          "Shunyi District",
+          "Changping District",
+          "SCM Hing Area",
+          "Pinggu District",
+          "Huairou",
+          "Miyun Shawnee",
+          "Deferred Kyung Xian"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Tianjin ",
+    "city": [
+      {
+        "name": " Tianjin ",
+        "area": [
+          "Heping",
+          " River Eastern ",
+          "Hexi",
+          "Nankai District",
+          "District",
+          "Hongqiao District",
+          "Tanggu District",
+          "Hangu District",
+          "Grand Port District",
+          "Dongli District",
+          "Xiqing District",
+          "Jinnan District",
+          "Beichen",
+          "Wuqing District",
+          "Baochi District",
+          " Ninghe County ",
+          " Jinghai County ",
+          " Thistle County "
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Hebei province ",
+    "city": [
+      {
+        "name": " Shijiazhuang City ",
+        "area": [
+          "Changan District",
+          "Qiaodong District",
+          "Qiaoxi District",
+          " New China ",
+          " suburb area ",
+          " Well Mining Area ",
+          " Well Xing Xian ",
+          " Positive definite County ",
+          " Luancheng County ",
+          " Hangtang County ",
+          " Lingshou County ",
+          " Gaoyi County ",
+          " Deep Ze County ",
+          "Zanhuang County",
+          " electrodeless County ",
+          " Pingshan County ",
+          " Yuanshi County ",
+          " Zhao County ",
+          "Xinji",
+          "Ligustilide",
+          "Jinju",
+          " New le city ",
+          "Luquan"
+        ]
+      },
+      {
+        "name": " Tangshan ",
+        "area": [
+          "Lunan District",
+          "Lubei District",
+          "Guzhi District",
+          "Kaiping District",
+          " New area ",
+          " Fung Run County ",
+          " Luan County ",
+          "Luannan County",
+          "Leting",
+          " Qianxi County ",
+          " Yutian County ",
+          " Tanghai County ",
+          "Zunhua",
+          "Fengnan City",
+          "Qianan"
+        ]
+      },
+      {
+        "name": " Qin Huang Island ",
+        "area": [
+          "Haigang",
+          "Shanhaiguan District",
+          "Beidaihe District",
+          " Green Long Manchu autonomous County",
+          " Changli County ",
+          "Funing County",
+          "Lulong County"
+        ]
+      },
+      {
+        "name": " Handan 郸 City ",
+        "area": [
+          "Hanshan",
+          "Congtai",
+          " Complex Hing Area ",
+          " Peak Mining Area ",
+          " Handan 郸 County ",
+          "Linzhang County",
+          " Shing County ",
+          " name County ",
+          " involves County ",
+          " Magnetic County ",
+          " Fat rural counties ",
+          " Yongnian County ",
+          " Qiu County ",
+          "Jize County",
+          " Guangping County ",
+          "Guantao County",
+          " Wei County ",
+          " Quzhou County ",
+          "Wuan"
+        ]
+      },
+      {
+        "name": " Xingtai ",
+        "area": [
+          "Qiaodong District",
+          "Qiaoxi District",
+          " Xingtai County ",
+          "Lincheng County",
+          " Neiqiu County ",
+          " Cooper rural counties ",
+          " Long Yao County ",
+          " any County ",
+          "and County ",
+          " Ningjin County ",
+          " Julu County ",
+          " xinhe County ",
+          " Guangzong County ",
+          " Ping rural counties ",
+          " Granville County ",
+          " Qinghe County ",
+          "Linxi",
+          " South Miyaichi ",
+          "Shahe"
+        ]
+      },
+      {
+        "name": " Baoding ",
+        "area": [
+          "District",
+          "Beishi",
+          "Nanshi",
+          "County",
+          " Qingyuan County ",
+          "Laishui County",
+          " Fuping County ",
+          " Xushui County ",
+          " Set changxing ",
+          " Don County ",
+          " Gaoyang County ",
+          " Rongcheng County ",
+          "Laiyuan County",
+          " Wangdou County ",
+          "An County ",
+          " Easy County ",
+          " Quyang County ",
+          "Li County ",
+          "Shunping County",
+          "Boye",
+          " male County ",
+          "Zhuozhou",
+          "Dingzhou",
+          "Anguo",
+          "Gaobeidian"
+        ]
+      },
+      {
+        "name": " Zhangjiakou ",
+        "area": [
+          "Qiaodong District",
+          "Qiaoxi District",
+          "Xuanhua",
+          "Xiahuayuan District",
+          " Xuanhua County ",
+          "Zhangbei",
+          " Kangbao County ",
+          " Guyuan County ",
+          "is still Yixian ",
+          "Wei County ",
+          " Yangyuan County ",
+          "Vian County",
+          " Foolproof County ",
+          "Huailai County",
+          " Zhuolu County ",
+          " Chicheng County ",
+          " Chongli County "
+        ]
+      },
+      {
+        "name": " Chengde ",
+        "area": [
+          " Double Bridge ",
+          " Double Luan ",
+          "Yingshouyingzi District",
+          " Chengde County ",
+          "Xinglong County",
+          " Pingquan County ",
+          "Luanping",
+          " Longhua County ",
+          " Fengning Manchu autonomous County",
+          "Kuancheng",
+          "WeiChang"
+        ]
+      },
+      {
+        "name": " Cangzhou ",
+        "area": [
+          " New China ",
+          "Yunhe",
+          " Cang County ",
+          " Green County ",
+          "Dongguang County",
+          " Sea changxing ",
+          "Yanshan County",
+          "Suning County",
+          " NANPI County ",
+          " Wu Bridge County ",
+          "To offer County ",
+          " Meng hui autonomy County ",
+          " Dock Header City ",
+          "Renqiu",
+          " Yellow Huawei ",
+          " River inter-city "
+        ]
+      },
+      {
+        "name": " Langfang ",
+        "area": [
+          "Anci",
+          " Guan County ",
+          " Yongqing County ",
+          " Xianghe County ",
+          " big city County ",
+          " Wenan County ",
+          " Dachang Hui Autonomous County ",
+          "Bazhouy",
+          "Three Rivers"
+        ]
+      },
+      {
+        "name": " Hengshui ",
+        "area": [
+          "Taocheng District",
+          "Zaoqiang County",
+          " Wuyi County ",
+          " Martial Strong County ",
+          "Raoyang County",
+          " anping County ",
+          " Cheng County ",
+          " King County ",
+          " Fucheng County ",
+          "Jizhou",
+          "Shenzhou"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Shanxi Province ",
+    "city": [
+      {
+        "name": " Taiyuan ",
+        "area": [
+          "Xiaodian District",
+          " Welcome jersey ",
+          "Xinghualing District",
+          "Jianchaoping District",
+          "Wanbolin District",
+          "Jinyuan District",
+          " Qingxu County ",
+          " Yangqu County ",
+          " Louboutin annoying counties ",
+          "Gujiao"
+        ]
+      },
+      {
+        "name": " Datong ",
+        "area": [
+          " City area ",
+          " mine area ",
+          "Nanjiao",
+          "Xinrong District",
+          " Yanggao County ",
+          " Day Town County ",
+          " Guangling County ",
+          " Lingqiu County ",
+          "Hunyuan County",
+          " Zuoyun County ",
+          " Datong County "
+        ]
+      },
+      {
+        "name": " Yangquan ",
+        "area": [
+          " City area ",
+          " mine area ",
+          " suburb area ",
+          " Pacify County ",
+          "Jar County "
+        ]
+      },
+      {
+        "name": " Changzhi ",
+        "area": [
+          " City area ",
+          " suburb area ",
+          "Changzhi County",
+          " Xiangyuan County ",
+          " Tunliu County ",
+          " Ping Shun County ",
+          " Licheng County ",
+          "Huguan",
+          "Changzi County",
+          " Martial rural counties ",
+          " Qin County ",
+          " Qinyuan County ",
+          "Lucheng"
+        ]
+      },
+      {
+        "name": " Jincheng ",
+        "area": [
+          " City area ",
+          " Qinshui County ",
+          " Yangcheng County ",
+          " Lingchuan County ",
+          "Zezhou",
+          "Gaoping"
+        ]
+      },
+      {
+        "name": " Shuozhou ",
+        "area": [
+          "Sucheng District",
+          " Ping Zone ",
+          " Shanyin County ",
+          " should County ",
+          " Youyu County ",
+          "Huairen County"
+        ]
+      },
+      {
+        "name": " Xinzhou ",
+        "area": [
+          "Yifu District",
+          "Yuanping",
+          " Dingxiang County ",
+          "Five County ",
+          " Generation County ",
+          " Fanzhi County ",
+          " Ningwu County ",
+          " Static Lok County ",
+          " Shenchi County ",
+          " Wuzhai County ",
+          " Montblanc Lan County",
+          " Meander County ",
+          " Baode County ",
+          " Pianguan County "
+        ]
+      },
+      {
+        "name": " Luliang ",
+        "area": [
+          "Lishi District",
+          " filial piety Semantic City ",
+          "Fenyang",
+          " Wenshui County ",
+          " Jiaocheng County ",
+          " Hing County ",
+          " Pro County ",
+          " Liulin County ",
+          " Shilou County ",
+          " Haze County ",
+          " Fangshan County ",
+          " Zhongyang County ",
+          " intersection County "
+        ]
+      },
+      {
+        "name": " Jinzhong ",
+        "area": [
+          "Yuci",
+          "Jiexiu",
+          "Yushe County",
+          " left right County ",
+          " and Shun County ",
+          " Cuoyang County ",
+          " Shouyang County ",
+          " Taigu County ",
+          " Taiqi County ",
+          " Pingyao County ",
+          " Lingshi County "
+        ]
+      },
+      {
+        "name": " Linfen ",
+        "area": [
+          "Linfen",
+          " Hou Ma ",
+          "Huozhou",
+          " Quwo County ",
+          " Yicheng County ",
+          " Xiangfen County ",
+          " Hongtong County ",
+          " Ancient County ",
+          " an Ze County ",
+          " Fushan County ",
+          " Gillette County ",
+          "Xiangning County",
+          " po County ",
+          " Daning County ",
+          " Yonghe County ",
+          " XI County ",
+          " Fenxi County "
+        ]
+      },
+      {
+        "name": " Yuncheng ",
+        "area": [
+          "Yuncheng",
+          " Forever Jinan City ",
+          "Hejin",
+          " Ruicheng County ",
+          "Linyi",
+          " Wanrong County ",
+          " New County ",
+          " Jishan County ",
+          "Wenxi",
+          " Summer County ",
+          " Jiangyin County ",
+          " Ping Land and county ",
+          " Yuanqu County "
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Inner Mongolia ",
+    "city": [
+      {
+        "name": " Hohhot ",
+        "area": [
+          "Xincheng",
+          "Huimin District",
+          "Yuquan District",
+          " suburb area ",
+          "TUMD Zuoqi",
+          " Tuoketuo County ",
+          " and Ringer County ",
+          " Qingshui River County ",
+          " Wuchuan County "
+        ]
+      },
+      {
+        "name": " Package Header City ",
+        "area": [
+          "Dong Ho District",
+          " Quentin Lun Area ",
+          "Qingshan",
+          " Shiguai Mining Area ",
+          " White Cloud Mining Area ",
+          " suburb area ",
+          "Tumed",
+          " Guyang County ",
+          " up to Maoming Union Flag "
+        ]
+      },
+      {
+        "name": " Wuhai ",
+        "area": [
+          "Haibowan",
+          "Hainan District",
+          "Wuda District"
+        ]
+      },
+      {
+        "name": " Chifeng ",
+        "area": [
+          "Hongshan",
+          "Yuanbaoshan District",
+          "Songshan",
+          "A LU Horqin flag ",
+          "Bairin Zuoqi",
+          "Bairin Youqi",
+          " Linxi County ",
+          " Kashk Flag-Free ",
+          "Ongniud Qi",
+          "Harqin Qi",
+          " Ning Cheng County ",
+          " ao Chinese flag "
+        ]
+      },
+      {
+        "name": " Call Lember City ",
+        "area": [
+          " Hella City ",
+          "Manzhouli",
+          " tie Lan Tun ",
+          "Yakeshi",
+          "Genhe",
+          "Eerguna",
+          "Arongqi",
+          " Morin native Flag ",
+          " e Lun Chun Autonomous flag ",
+          "Ewenkizu Zizhiqi",
+          " NWFB Tiger Right flag ",
+          " NWFB Tiger left flag ",
+          "Barag"
+        ]
+      },
+      {
+        "name": " Xing an union ",
+        "area": [
+          "Ulan Hot",
+          "A Mountain City ",
+          " Section The right-wing front banner ",
+          " Section On the right wing of the flag ",
+          " tie Lai Special flag ",
+          " Tuquan County "
+        ]
+      },
+      {
+        "name": " Pass liao Shi ",
+        "area": [
+          " Section Qin Area ",
+          "Huolinguolei",
+          " Section the left-wing flag ",
+          " Section The left-wing rear flag ",
+          " opens Lu County ",
+          "Kulunqi",
+          "Naimanqi",
+          " tie Ruth "
+        ]
+      },
+      {
+        "name": " The Xilin Gol ",
+        "area": [
+          " two even hot city ",
+          "Xilin Hot",
+          "Abag Qi",
+          "Sonid Zuoqi",
+          "Sonid Youqi",
+          "Dong Ujimqin Qi",
+          " West Ukrainian flag ",
+          "Taipusiqi",
+          "Xianghuangqi",
+          " is White flag ",
+          " is Blue Flag ",
+          " more Lun County "
+        ]
+      },
+      {
+        "name": " Ulanqab Meng",
+        "area": [
+          "Jining",
+          " Fung Town ",
+          " Zhuo counties ",
+          " Huade County ",
+          "Vendor County ",
+          "Xinghe County",
+          " Liangcheng County ",
+          " front-right banner ",
+          " Right-wing Flag ",
+          "The Right-wing back flag ",
+          "Dorbod"
+        ]
+      },
+      {
+        "name": " League ",
+        "area": [
+          "Dongsheng",
+          "Dalad Qi",
+          " quasi-grid Flag ",
+          "Otog",
+          "Otog Qi",
+          " Hang Banner ",
+          "Wushenqi",
+          "Ejin Horo Qi"
+        ]
+      },
+      {
+        "name": " Bayan Delta ",
+        "area": [
+          "Linhe",
+          " Wuyuan County ",
+          " Dengkou County ",
+          "Urad Qianqi",
+          "Wulatezhqi",
+          "Wulatehouqi",
+          " Hang Brocade Flag "
+        ]
+      },
+      {
+        "name": " Alxa League",
+        "area": [
+          "Alxa Zuoqi",
+          "Alxa Youqi",
+          "Ejin Qi"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Liaoning Province ",
+    "city": [
+      {
+        "name": " Shenyang ",
+        "area": [
+          "Shenhe",
+          "Huanggu",
+          "Heping",
+          " Large Eastern ",
+          " Tiexi Area ",
+          "Sujiatun District",
+          "Dongling District",
+          "Yuhong District",
+          "Xinmin",
+          " Method Library County ",
+          "Liaozhong County",
+          " kangping County ",
+          "Xinchengzi",
+          "Other"
+        ]
+      },
+      {
+        "name": " Large even city ",
+        "area": [
+          " West Post Area ",
+          "District",
+          "Shahekou District",
+          "Ganjingzi",
+          " Brigade In- zone ",
+          "Jinzhou District",
+          "Wafangdian",
+          " Universal LAN Dian ",
+          "Zhuanghe",
+          "Changhai County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Anshan ",
+        "area": [
+          "Tiedong District",
+          "Tiexi",
+          "Lishan",
+          "Qianshan",
+          "Haicheng",
+          " Taian County ",
+          " Xiuyan Manchu autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Fushun ",
+        "area": [
+          "Shuncheng District",
+          " New Zone ",
+          "Dongzhou District",
+          "Wanghua District",
+          "Fushun County",
+          " Qingyuan Manchu autonomous County",
+          " New Bin Manchu autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Benxi ",
+        "area": [
+          "Pingshan",
+          "Mingshan",
+          "Xihu District",
+          "Nanfeng District",
+          " Benxi Manchu autonomous County",
+          " Huanren Manchu autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Dan Dong ",
+        "area": [
+          " Vibration Hing Area ",
+          "Yuabao District",
+          "Zhenan District",
+          "East Haven",
+          "Fengcheng",
+          "Kuandian",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jinzhou ",
+        "area": [
+          "Taihe",
+          "Guta District",
+          "Linhe District",
+          "Linghai",
+          " Montenegro County ",
+          "Yixian",
+          "Bac Ninh",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yingkou ",
+        "area": [
+          "Station Front Zone",
+          "Xishi",
+          "Boyuquan",
+          " Old Border area",
+          " Boulder Bridge ",
+          "Gaizhou",
+          "Other"
+        ]
+      },
+      {
+        "name": " Fuxin ",
+        "area": [
+          "Haizhou District",
+          "Xinqiu District",
+          "Taiping",
+          " Qinghe Gate Area ",
+          "Xihe District",
+          " Zhangwu County ",
+          " fuxin Mongolian Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Liaoyang ",
+        "area": [
+          "Baita District",
+          "Wensheng District",
+          " Macros Wai ",
+          "Taizihe District",
+          " Bow changling Area ",
+          "Dengta",
+          "Liaoyang County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Panjin ",
+        "area": [
+          "Shuangtaizi District",
+          "Xinglongtai District",
+          "Panshan County",
+          " Dawa County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Tieling ",
+        "area": [
+          "Yinzhou District",
+          "Qinghe District",
+          "Diaobingshan City",
+          "Kaiyuan",
+          "Tieling County",
+          " Chang diagram County ",
+          " Xifeng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Chaoyang ",
+        "area": [
+          "Shuangta District",
+          "Longcheng",
+          "Lingyuan",
+          "Beipiao",
+          " Chaoyang County ",
+          " jianping County ",
+          " Kerala left-wing Mongolian autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " gourd Island ",
+        "area": [
+          "Longgang District",
+          "Nanpiao District",
+          "Lianshan",
+          "Xingcheng",
+          "Suizhong County",
+          " Jianchang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Jilin Province ",
+    "city": [
+      {
+        "name": " Changchun ",
+        "area": [
+          "Chaoyang",
+          "Kuancheng District",
+          "Erdao District",
+          "Nanguan",
+          "Green Park",
+          "Shuangyang District",
+          "Jiutai",
+          "Yushu",
+          "Dehui",
+          "Nong",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jilin ",
+        "area": [
+          " ship Camp ",
+          "Changyi District",
+          "Longtan District",
+          " Fung Full Area ",
+          " Shu LAN ",
+          "Huadian",
+          "Jiaohe",
+          "Panshi",
+          " Yongji County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " siping ",
+        "area": [
+          "Tiexi",
+          "Tiedong District",
+          "Gongzhuling",
+          " Double liao Shi ",
+          " Pear Tree County ",
+          " Yitong Manchu autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Liaoyuan ",
+        "area": [
+          "Long Mountain",
+          "Xian District",
+          "Dongliao County",
+          "County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Tonghua ",
+        "area": [
+          "Dongchang District",
+          "Erdaojiang District",
+          "Meihekou",
+          "Jian",
+          " Tonghua County ",
+          "Huinan County",
+          " Liuhe County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Bss ",
+        "area": [
+          "Badaojiang District",
+          "SOURCE Area",
+          "Linjiang",
+          " Jingyu County ",
+          "Fusong County",
+          "Changbai County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Songyuan ",
+        "area": [
+          "Ningjiang District",
+          " Qianan County ",
+          "Changling County",
+          " Fuyu County ",
+          " Qianguo Rose Mongolian autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Baicheng ",
+        "area": [
+          "Zhaobei District",
+          "Daan",
+          "Zhaonan",
+          "Zhenlai County",
+          " Pass Elm County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " deferred Border Korean Autonomous Prefecture ",
+        "area": [
+          "Yanji",
+          "Tumen",
+          "Dunhua",
+          "Longjing",
+          "Huichun",
+          " and Dragon City ",
+          " an diagram County ",
+          " wangqing County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Black Longjiang province ",
+    "city": [
+      {
+        "name": " ha Waterfront ",
+        "area": [
+          "Pine North",
+          "Daoli",
+          " South Post Area ",
+          "Pingfang District",
+          "Xiangfang District",
+          "Daowai District",
+          " Call LAN ",
+          "A district",
+          "Shuangcheng",
+          "Shangzhi",
+          "Wuchang",
+          "Bin",
+          " founder County ",
+          " Tonghe County ",
+          " Bayan County ",
+          "To prolong the County ",
+          " Wood Lan County ",
+          " according to Lan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Qiqihar ",
+        "area": [
+          "Longshan District",
+          "Angangxi District",
+          "Tiefeng",
+          " Build China ",
+          " Rich-pull Base Area ",
+          "Lianzishan District",
+          " Meris Family Area ",
+          "Nehe",
+          " Rich County ",
+          " Baiquan County ",
+          " Gannan County ",
+          " Yian County ",
+          " Keshan County ",
+          " Tailai County ",
+          " gram East Counties ",
+          "Longjiang County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hegang ",
+        "area": [
+          "Shinshan",
+          " Work Farm ",
+          "Nanshan",
+          "Xingan District",
+          "Xiangyang District",
+          "Dongshan",
+          "Luobei County",
+          "Suibin County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Double Duck Hill ",
+        "area": [
+          "Jianshan District",
+          " Ridge Eastern ",
+          "Sifangtai District",
+          "Baoshan",
+          " Set Xian County ",
+          " Baoqing County ",
+          " Friends Yee County ",
+          "Raohe County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jixi ",
+        "area": [
+          "Jiguan District",
+          "Hengshan",
+          "Chengzihe District",
+          "Didiao District",
+          " Pear Tree Area ",
+          "Mashan District",
+          "Mishan",
+          "Hulin",
+          "Jidong County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Large Qing shi ",
+        "area": [
+          "Saertu District",
+          "Honggang District",
+          "Longfeng",
+          "Ranghulu",
+          "Datong District",
+          " Lindian County ",
+          " Zhaozhou County ",
+          " Zhaoyuan County ",
+          " du Burt's Mongolian autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yichun ",
+        "area": [
+          "Yichun District",
+          "Dailin District",
+          "Nancha District",
+          "Jinshantun District",
+          "West Forest",
+          "Meixi District",
+          "Wumahe District",
+          " Cui Luan ",
+          "Youhao District",
+          "Shangganlin District",
+          " Five Camp ",
+          "Hongxing District",
+          "Xinqing District",
+          "Tangwanghe District",
+          "Wuyilin District",
+          "Tieli",
+          " ka shaded counties ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Mudanjiang ",
+        "area": [
+          "Aimin District",
+          "Dongan District",
+          "YANGMN District",
+          "Xian District",
+          "Suifenhe",
+          "Ningan",
+          "Hailin",
+          "Muleng",
+          " Linkou County ",
+          "Dongning County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jiamusi ",
+        "area": [
+          "Xiangyang District",
+          " before Enter ",
+          "Dongfeng District",
+          "Suburbs",
+          "Tongjiang",
+          " Rich Kam City ",
+          "Huachuan County",
+          "Fuyuan County",
+          "Huanan",
+          "Tangyuan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Qitaihe Shi",
+        "area": [
+          "Taoshan District",
+          " New Hing Area ",
+          "Quezihe District",
+          " Boli County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Heihe ",
+        "area": [
+          "Aihui District",
+          "Beian",
+          " five big even pool city ",
+          "Xunke",
+          " Nenjiang County ",
+          "Sunwu County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Suihua ",
+        "area": [
+          "Beilin",
+          "Anda",
+          " initiates Dong ",
+          " Sea Lun City ",
+          "Suileng County",
+          "Lanxi County",
+          "Out of the County ",
+          " Green Gang County ",
+          "Qingan County",
+          " Wangkui County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Large xinganling Region ",
+        "area": [
+          " Call Ma County ",
+          " Tahe County ",
+          " Mohe County ",
+          " Large xinganling Jurisdiction ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Shanghai ",
+    "city": [
+      {
+        "name": " Shanghai ",
+        "area": [
+          "Huangpu",
+          "Luwan",
+          " Xu Sinks ",
+          "Changning",
+          "Jingan",
+          "Putuo",
+          "Zhabei",
+          "Hongkou",
+          "Yangpu",
+          "Baoshan",
+          "Minhang",
+          "Jiading",
+          "Songjiang",
+          "Jinshan",
+          "Qingpu",
+          " South Sinks ",
+          "by Hyun-qu ",
+          " PU East New Zone ",
+          " Chongming County ",
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " River Su province ",
+    "city": [
+      {
+        "name": " Nanjing ",
+        "area": [
+          "Xuanwu District",
+          "Baixia District",
+          "Qinhuai District",
+          " Build ye area ",
+          "District",
+          "Xiaguan District",
+          "Qixia District",
+          "Yuhuatai District",
+          "Pukou District",
+          "Jiangning District",
+          "Liuhe District",
+          " Lishui County ",
+          " Gaochun County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Suzhou ",
+        "area": [
+          " Gold Chang Area ",
+          "Pingjiang District",
+          "Changlangq",
+          "Huqiu District",
+          "Wuzhong District",
+          "Xiangcheng District",
+          "Changshu",
+          "Zhangjiagang",
+          "Kunshan",
+          "Wujiang",
+          " too Warehouse ",
+          "Other"
+        ]
+      },
+      {
+        "name": " No Tin City ",
+        "area": [
+          "Chongan District",
+          " South Long Area ",
+          "Beitang District",
+          "Binghu District",
+          "Xishan District",
+          "Huishan District",
+          "Jiangyin",
+          " appropriate Hing City ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Changzhou ",
+        "area": [
+          "Zhonglou District",
+          "Tinian District",
+          "Qishuyan",
+          "New North",
+          " Martial Enter ",
+          " Gold Altar City ",
+          "Liyang",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhenjiang ",
+        "area": [
+          "Jingkou District",
+          "Ruizhou District",
+          "Dantu District",
+          "Danyang",
+          "Yangzhong",
+          "Jurong",
+          "Other"
+        ]
+      },
+      {
+        "name": " Nantong ",
+        "area": [
+          "Congchuan District",
+          " Port Gate ",
+          "Tongzhou",
+          "Rugao",
+          " Sea Retail ",
+          "Open Dong ",
+          " MSC County ",
+          " such as East County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Taizhou ",
+        "area": [
+          "Hailing District",
+          "Gaogang District",
+          "Jiangyan",
+          " Thai Hing City ",
+          "Jingjiang",
+          "Xinghua",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yangzhou ",
+        "area": [
+          "Guangling District",
+          "Weiyang District",
+          "Hanjiang District",
+          "Jiangdu",
+          "Yizheng",
+          " High Stamp ",
+          " Treasure Ying County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yancheng ",
+        "area": [
+          "Ting Hu Qu",
+          "Yandu District",
+          "Dafeng",
+          "Dongtai",
+          " Jianhu County ",
+          " Sheyang County ",
+          " Funing County ",
+          "Binhai County",
+          " Xiangshui County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Lianyungang ",
+        "area": [
+          "Xinpu District",
+          "Haizhou District",
+          "Lianyun District",
+          "Donghai County",
+          " Guanyun County ",
+          "Ganyu County",
+          " Guannan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xuzhou ",
+        "area": [
+          " Cloud Long Area ",
+          "District",
+          "Jiuli District",
+          "Quanshan",
+          "Jiawang",
+          "Pizhou",
+          "Xinyi",
+          "Tongshan",
+          " Suining County ",
+          " Planet County ",
+          " Fung County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huaian ",
+        "area": [
+          "Qinghe District",
+          "Qingpu District",
+          "Chuzhou District",
+          "Huaiyin District",
+          "Lianshui County",
+          " Flood Ze County ",
+          " Jinhu County ",
+          " Xuyi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Suqian ",
+        "area": [
+          "Sucheng District",
+          "Suyu District",
+          " Shuyang County ",
+          " Siyang County ",
+          " Sihong County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Zhejiang province ",
+    "city": [
+      {
+        "name": " Hangzhou ",
+        "area": [
+          "Gongshu District",
+          "West L. District",
+          "District",
+          "Xiacheng",
+          "Jianggan District",
+          "Bingjiang District",
+          "Yuhang",
+          "Xiaoshan District",
+          "Jiande",
+          "Fuyang",
+          "Linan",
+          " Tong Lujiang County ",
+          " Chunan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ningbo ",
+        "area": [
+          "Haishu District",
+          " River Eastern ",
+          "Jiangbei District",
+          "Zhenhai District",
+          " North Lun ",
+          "Yinzhou",
+          "Yuyao",
+          "Cixi",
+          "Fenghua",
+          " Ninghai County ",
+          " Xiangshan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Wenzhou ",
+        "area": [
+          "Lucheng District",
+          "Longwan District",
+          "Ouhai",
+          "Ruian",
+          "Leqing",
+          " Yongjia County ",
+          " Hole Header County ",
+          " Pingyang County ",
+          "Cangnan",
+          " Wencheng County ",
+          " Thai Shun County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " ka Hing City ",
+        "area": [
+          "Xiucheng District",
+          "Xiuzhou District",
+          "Haining",
+          "Pinghu",
+          " Tong Township ",
+          " Jiashan County ",
+          " Sea Salt County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huzhou ",
+        "area": [
+          " Wu Hing Area ",
+          " South Xun qu ",
+          "Changxing County",
+          " Deqing County ",
+          " Anji County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shaoxing ",
+        "area": [
+          "Yuecheng",
+          "Zhuji",
+          "Shangyu",
+          "Shengzhou",
+          "Shaoxing",
+          " Xinchang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Gold hua Shi ",
+        "area": [
+          "Wucheng",
+          " Gold Eastern ",
+          "Lanxi",
+          "Yiwu",
+          "Dongyang",
+          "Yongkang",
+          " Martial Yixian ",
+          " Pujiang County ",
+          " Panan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Quzhou ",
+        "area": [
+          "Kecheng District",
+          "Qujiang District",
+          "Jiangshan",
+          "Longyou County",
+          " Changshan County ",
+          " Culture County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhoushan ",
+        "area": [
+          "Dinghai District",
+          "Putuo",
+          " Daishan County ",
+          " Shengsi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Taizhou ",
+        "area": [
+          "Jiaojiang",
+          "Huangyan District",
+          " Road Bridge ",
+          "Linhai",
+          "Wenling",
+          " Jade Huan County",
+          " Rooftop County ",
+          " Xianju County ",
+          " three Gate County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Lishui ",
+        "area": [
+          "Liandu District",
+          "Longquan",
+          "Jinyun County",
+          " Qingtian County ",
+          " Cloud and County ",
+          " Suichang County ",
+          " Songyang County ",
+          "Qingyuan County",
+          " Jingning shes autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " other cities ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Anhui Province ",
+    "city": [
+      {
+        "name": " Hefei ",
+        "area": [
+          "Luyang District",
+          "Yaohai District",
+          "Shushan District",
+          "Baohe District",
+          "Changfeng County",
+          " Fat East Counties ",
+          " Feixi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Wuhu ",
+        "area": [
+          "Jinghu District",
+          "Yijiang area",
+          "Jiujiang District",
+          "San Mountain",
+          "Wuhu County",
+          " Nanling County ",
+          " Fanchang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Bangbu ",
+        "area": [
+          "Clam Mountain Area",
+          "Longzici Lake District",
+          "Yu Qu",
+          "Huai Shang Qu",
+          "Huaiyuan County",
+          " Solid Town County ",
+          " Five County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huainan ",
+        "area": [
+          "Tianjiayan",
+          "Datong District",
+          "Xiejiaji District",
+          "Bagongshan District",
+          "Panji District",
+          "Fengtai County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Maanshan ",
+        "area": [
+          "Yushan",
+          "Huashan",
+          "Jinjiazhuang",
+          " Dangtu County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huaibei ",
+        "area": [
+          "Xiangshan District",
+          "Duji District",
+          "Lieshan District",
+          " Suixi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Tongling ",
+        "area": [
+          "Tongguanshan District",
+          "Sierra Leone District",
+          "Suburbs",
+          "Tongling County",
+          "Other"
+        ]
+      },
+      {
+        "name": " an Qing shi ",
+        "area": [
+          "Yinjiang District",
+          " Large viewing area ",
+          "Yi Xiu District",
+          "Tongcheng",
+          " Susong County ",
+          "Congyang County",
+          " Taihu Lake County ",
+          "Huaining County",
+          " Yuexi County ",
+          " Wangjiang County ",
+          " Qianshan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huangshan ",
+        "area": [
+          "Txq",
+          "Huangshan",
+          "Huizhou District",
+          " Xiuning County ",
+          " inkstone County ",
+          " Taiqi Gate County ",
+          " Yi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Chuzhou ",
+        "area": [
+          "Langya District",
+          " South Qiao Area ",
+          " Day Long City ",
+          "Mingguang",
+          " Quanjiao County ",
+          " Lai County ",
+          " Set far counties ",
+          "Fengyang",
+          "Other"
+        ]
+      },
+      {
+        "name": " Fuyang ",
+        "area": [
+          "Yinzhou District",
+          "Yingdong",
+          "Ying Quan District",
+          "Jieshou",
+          "Linquan County",
+          "Yingshang County",
+          " Funan County ",
+          " Taihe County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Suzhou ",
+        "area": [
+          " Yong Bridge ",
+          "Xiao",
+          " si County ",
+          "Dangshan County",
+          " Lingbi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Chaohu ",
+        "area": [
+          "Juchao District",
+          " Hanshan County ",
+          " No is a county ",
+          "Lujiang",
+          " and County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Liu'an ",
+        "area": [
+          "Jinan District",
+          "Yuan District",
+          " Shou County ",
+          " Huoshan County ",
+          " Huoqiu County ",
+          " Shucheng County ",
+          " Jinzhai County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Bozhou ",
+        "area": [
+          "Qiaocheng District",
+          " Lixin County ",
+          "Woyang County",
+          " Mengcheng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Chizhou ",
+        "area": [
+          "Guichixian",
+          "Dongzhi County",
+          "The Stone stone County ",
+          " Qingyang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xuancheng ",
+        "area": [
+          "Xuanzhou District",
+          "Ningguo",
+          " Guangde County ",
+          " Langxi County ",
+          "Jing County",
+          " Jingde County ",
+          "Jixi County",
+          "Other"
+        ]
+      },
+      {
+        "name": " other cities ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Fujian province ",
+    "city": [
+      {
+        "name": " Fuzhou ",
+        "area": [
+          "District",
+          "Taijiang",
+          "Cangshan",
+          "Mawei",
+          "Jinan District",
+          "Fuqing",
+          "Changle",
+          "Minhou County",
+          "Minqing County",
+          " Yongtai County ",
+          "Lianjiang",
+          "Luoyuan County",
+          " Pingtan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Mansion Retail ",
+        "area": [
+          "Simin District",
+          " Sea Cang qu ",
+          "Huli District",
+          "Jimei District",
+          "Tongan District",
+          "Xiang ' an district",
+          "Other"
+        ]
+      },
+      {
+        "name": " Putian ",
+        "area": [
+          " City Compartment ",
+          "Hanjiang District",
+          "Licheng District",
+          " Show Lantau Area ",
+          " Xianyou County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Sanming ",
+        "area": [
+          "Meilie District",
+          "Sanyuan District",
+          "Yongan",
+          " Mingxi County ",
+          " will Lok County ",
+          " Daejeon County ",
+          " Ninghua County ",
+          " Jianning County ",
+          " Sandbox County ",
+          " Youxi County ",
+          "Clean up County ",
+          " Taining County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Quanzhou ",
+        "area": [
+          "Licheng",
+          " Fung jersey ",
+          "Luojiang District",
+          "Quangang District",
+          " Stone Lion City ",
+          "Jinjiang",
+          "Nanan",
+          " Huian County ",
+          " Yongchun County ",
+          " Anxi County ",
+          " Dehua County ",
+          " Gold Gate County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhangzhou ",
+        "area": [
+          "Xiangcheng",
+          "Longwen District",
+          "Longhai",
+          "and Peace County ",
+          " Nanjing County ",
+          "Zhaoan County",
+          " Zhangpu County ",
+          "Huaan County",
+          "Dongshan",
+          "Changtai",
+          " Sky County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Nanping ",
+        "area": [
+          "Yanping District",
+          "Jianou",
+          "Shaowu",
+          "Wuyishan",
+          "Jianyang",
+          " Songxi County ",
+          " Light Ze County ",
+          "Shunchang County",
+          " Pucheng County ",
+          "and County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Longyan ",
+        "area": [
+          " New ROM ",
+          "Zhangping",
+          "Changting",
+          "Ping-ping County ",
+          " Shanghang County ",
+          " Yongding County ",
+          "Liancheng County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ningde ",
+        "area": [
+          "Jiaocheng District",
+          "Fu'an",
+          "Fuding",
+          " Shouning County ",
+          " Xiapu County ",
+          " Zherong County ",
+          " Pingnan County ",
+          " Gutian County ",
+          " zhouning County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Jiangxi Province ",
+    "city": [
+      {
+        "name": " Nanchang ",
+        "area": [
+          "East L. District",
+          "West L. District",
+          " Qingyun Spectral area ",
+          "Wanli District",
+          "Castle Peak Lake District",
+          " New County ",
+          " Nanchang County ",
+          "Jinxian County",
+          " an Yixian ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jingde Town ",
+        "area": [
+          "Zhushan District",
+          "Changjiang District",
+          "Leping",
+          " Fuliang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ping Township ",
+        "area": [
+          "Anyuan District",
+          " Xiang Eastern ",
+          "Lianhua County",
+          " Shangli County ",
+          " Luxi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jiujiang ",
+        "area": [
+          "Xunyang District",
+          "Lushan",
+          "Ruichang",
+          " Jiujiang County ",
+          "Star-Star County ",
+          " wuning County ",
+          " Peng Ze County ",
+          " Yongxiu County ",
+          " Xiushui County ",
+          " Hukou County ",
+          " Dean County ",
+          " Chang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xinyu ",
+        "area": [
+          "Yushui",
+          " Fenyi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yingtan ",
+        "area": [
+          "Yuehu District",
+          "Guixi",
+          " Yujiang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ganzhou ",
+        "area": [
+          " Chapter Tribute ",
+          "Ruijin",
+          "Nankang",
+          " Shicheng County ",
+          " an far counties ",
+          "Gan County",
+          " Ningdou County ",
+          "Xunwu County",
+          "Xingguo County",
+          " Dingnan County ",
+          " Shangyou County ",
+          "All in County ",
+          "Longnan County",
+          " Chong Yixian ",
+          " Xinfeng County ",
+          " Quannan County ",
+          " Dayu County ",
+          " Huichang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jian ",
+        "area": [
+          "Jizhou District",
+          "Qingyuan District",
+          " Well Okayama ",
+          " ji County ",
+          " Yongfeng County ",
+          " Yongxin County ",
+          " Xingan County ",
+          " Taihe County ",
+          " Xiajiang County ",
+          " Suichuan County ",
+          " Anfu County ",
+          " Jishui County ",
+          " Wan an County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yichun ",
+        "area": [
+          "Yuanzhou District",
+          "Fengcheng",
+          " camphor Tree City ",
+          "Gaoan",
+          "Tonggu County",
+          " Jingan County ",
+          " Yifeng County ",
+          " Fengxin County ",
+          " million Download Counties ",
+          "High County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Fuzhou ",
+        "area": [
+          "Linchuan District",
+          " Nanfeng County ",
+          "Lean County",
+          " Jinxi County ",
+          " Nancheng County ",
+          "Dongxiang",
+          "Zixi County",
+          " Yihuang County ",
+          " Guangchang County ",
+          " Lichuan County ",
+          " Chongren County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " on Zhao ",
+        "area": [
+          "Xinzhou District",
+          " de Hing City ",
+          " on Rao County ",
+          " Guangfeng County ",
+          " Poyang County ",
+          " Wuyuan County ",
+          "Qianshan",
+          " Yugan County ",
+          " Hengfeng County ",
+          " Yiyang County ",
+          " Yushan County ",
+          "Years County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Mountain East Province ",
+    "city": [
+      {
+        "name": " Jinan ",
+        "area": [
+          "Shizhong",
+          "Lixia District",
+          " Day Bridge ",
+          " Huai Shade ",
+          "Licheng District",
+          "Changqing District",
+          "Zhangqiu",
+          " Pingyin County ",
+          "Jiyang",
+          " Shanghe County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Green Island ",
+        "area": [
+          "District",
+          "Shibei District",
+          "Chengyang District",
+          "Sifang District",
+          " Li Cang qu ",
+          " Yellow Island ",
+          "Laoshan District",
+          "Jiaonan",
+          "Jiaozhou",
+          "Pingdu",
+          "Laixi",
+          "Jimo",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zibo ",
+        "area": [
+          "Zhangdian",
+          "Linzi District",
+          "Zichuan District",
+          "Boshan District",
+          "Zhoucun",
+          " Huantai County ",
+          " gaoqing County ",
+          " Yiyuan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zaozhuang ",
+        "area": [
+          "Shizhong",
+          "Shanting District",
+          "Yicheng District",
+          "Taierzhuang District",
+          "Xuecheng District",
+          "Tengzhou",
+          "Other"
+        ]
+      },
+      {
+        "name": " Dongying ",
+        "area": [
+          "Dongying",
+          "Hekou District",
+          "Kenli County",
+          " Wide Rao County ",
+          " Lijin County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yantai ",
+        "area": [
+          "Zhifu",
+          "Fushan District",
+          "Mouping",
+          "Laishan District",
+          "Longkou",
+          "Laiyang",
+          "Laizhou",
+          " recruit far city ",
+          "Penglai",
+          "Qixia",
+          "Haiyang",
+          "Long I. County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Weifang ",
+        "area": [
+          "Weicheng District",
+          "Hanting District",
+          "Fangzi District",
+          "Kuiwen",
+          "Qingzhou",
+          "Zhucheng",
+          "Shouguang",
+          "Anqiu",
+          "Gaomi",
+          "Changyi",
+          " Chang Lok County ",
+          "Linqu County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jining ",
+        "area": [
+          "Shizhong",
+          "Rencheng",
+          "Qufu",
+          "Yanzhou",
+          "Zoucheng",
+          "Yutai County",
+          " Gold rural counties ",
+          " Jiaxiang County ",
+          " Weishan County ",
+          " Wenshang County ",
+          " Sishui County ",
+          " Liangshan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Taian ",
+        "area": [
+          "Taishan",
+          "Daiyue District",
+          "Xintai",
+          "Feicheng",
+          " Ningyang County ",
+          " East Ping County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Weihai ",
+        "area": [
+          "Huancui District",
+          "Rushan",
+          "Wenden",
+          "Rongcheng",
+          "Other"
+        ]
+      },
+      {
+        "name": " Rizhao ",
+        "area": [
+          "East Haven District",
+          "Lan Mountain",
+          " Five Lotus County ",
+          " Ju County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Levin Turnip ",
+        "area": [
+          "Lae District",
+          "Gangcheng District",
+          "Other"
+        ]
+      },
+      {
+        "name": " Linyi ",
+        "area": [
+          "Lanshan District",
+          "Luozhuang District",
+          " River Eastern ",
+          " Yinan County ",
+          " Tancheng County ",
+          " Yishui County ",
+          "Cangshan",
+          "Fei",
+          " Pingyi County ",
+          " Junan County ",
+          " Mengyin County ",
+          "Linshu County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Dezhou ",
+        "area": [
+          "Decheng",
+          "Leling",
+          "Yucheng",
+          " Mausoleum County ",
+          " Ningjin County ",
+          "Qihe County",
+          " Wucheng County ",
+          "Qingyun County",
+          " Plain County ",
+          " Xiajin County ",
+          "Linyi",
+          "Other"
+        ]
+      },
+      {
+        "name": " Liaocheng ",
+        "area": [
+          "Dongchangfu",
+          "Linqing",
+          " Gaotang County ",
+          " Yanggu County ",
+          " Chaping County ",
+          " Xin County ",
+          "Dong",
+          " Crown County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Binzhou ",
+        "area": [
+          "Bingcheng District",
+          "Zouping County",
+          " Zhanhua County ",
+          " huimin County ",
+          " bo changxing ",
+          " Yangxin County ",
+          " Wudi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Holland ze City ",
+        "area": [
+          "Mudan District",
+          " Juancheng County ",
+          "Shan",
+          "Yuncheng",
+          " Cao County ",
+          " Dingtao County ",
+          " Juye County ",
+          "Dongming",
+          " Sema County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Henan province ",
+    "city": [
+      {
+        "name": " Zhengzhou ",
+        "area": [
+          "Zhongyuan",
+          "Jinshui",
+          "Erqi",
+          "Guancheng District",
+          "Shangjie",
+          " Whitney ji qu ",
+          " Gong Semantic City ",
+          " New Zheng ",
+          "Xinmi",
+          "Dengfeng",
+          "Xingyang",
+          " Zhongmu County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Kaifeng ",
+        "area": [
+          "District",
+          "Longting",
+          "Shunhe District",
+          "Yu Wang Tai Qu",
+          "Jinming District",
+          " Kaifeng County ",
+          " Weishi County ",
+          "Lankao County",
+          " qi County ",
+          " Pass Xu County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Luoyang ",
+        "area": [
+          "Xigong",
+          "Old",
+          "Jianxi District",
+          "瀍 River Hui District",
+          " Lockhart Long Area ",
+          "Kili District",
+          " XiaoYan Division City ",
+          " Mengjin County ",
+          " Ruyang County ",
+          " Yichuan County ",
+          " luoning County ",
+          "Song County ",
+          " Yiyang County ",
+          " Xinan County ",
+          " Luanchuan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ping Top Mountain ",
+        "area": [
+          " New China ",
+          "Weidong District",
+          "Zhanhe",
+          " Stone Long Area ",
+          "Rruzhou",
+          " Dance Steel City ",
+          " Baofeng County ",
+          " Leaf County ",
+          "Jia County",
+          "Lushan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Anyang ",
+        "area": [
+          "Beiguan District",
+          "Wenfeng",
+          "Yindu District",
+          "Longan District",
+          "Linzhou",
+          " Anyang County ",
+          " Slide County ",
+          " Neihuang County ",
+          "Tangyin",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hebi ",
+        "area": [
+          " ki Waterfront ",
+          "Shancheng",
+          "Heshan District",
+          " June County ",
+          " ki County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " New Township ",
+        "area": [
+          "Weibin District",
+          "Red Banner(marxist-leninist) District",
+          "Fung Quan District",
+          "Pastoral Area",
+          "Weihui",
+          "Huixian",
+          " New rural counties ",
+          "Huojia County",
+          " Yuanyang County ",
+          "Changyuan County",
+          " Fengqiu County ",
+          " Yanjin County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jiaozuo ",
+        "area": [
+          "Liberated",
+          "Zhongzhan District",
+          "Macun",
+          "Shanyang",
+          "Qinyang",
+          "Mengzhou",
+          " Xiuwu County ",
+          " temperature County ",
+          " Wuzhi County ",
+          " bo Love County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Puyang ",
+        "area": [
+          "Hua Long qu",
+          " Puyang County ",
+          " South Lok County ",
+          "Front County ",
+          " Qingfengshan County ",
+          " Fan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xuchang ",
+        "area": [
+          "Weidu",
+          "Yuzhou",
+          "Changge",
+          "Xuchang",
+          " Yanling County ",
+          " Xiangcheng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Leihe ",
+        "area": [
+          " Source Sinks ",
+          "Yancheng District",
+          "Call Ling District",
+          "Linying County",
+          " Wuyang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " three Gate Gap City ",
+        "area": [
+          " Lake Waterfront ",
+          "Yima",
+          "Lingbao",
+          "Mianchi",
+          "Lushi County",
+          "Shan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Nanyang ",
+        "area": [
+          " Lie Long Area ",
+          "Wancheng",
+          "Dengzhou",
+          " Tongbai County ",
+          " Fangcheng County ",
+          " Xichuan County ",
+          "Zhenping",
+          " Tanghe County ",
+          " Nanzhao County ",
+          " rural counties ",
+          " Xinye County ",
+          " Sheqi County ",
+          " Xixia County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shangqiu ",
+        "area": [
+          "Liangyuan District",
+          "Suiyang District",
+          "Yongcheng",
+          " Ningling County ",
+          " Yucheng County ",
+          " min right County ",
+          " Xiayi County ",
+          " Zhecheng County ",
+          " sui County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xinyang ",
+        "area": [
+          "Shihe District",
+          " Ping Bridge ",
+          " Huangchuan County ",
+          " Huai Riverside ",
+          " Rest County ",
+          " New County ",
+          " Mall County ",
+          " Gushi County ",
+          "Luoshan",
+          " Guangshan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhoukou ",
+        "area": [
+          " Sichuan Sinks ",
+          "Xiangcheng",
+          " Shangshui County ",
+          " Huaiyang County ",
+          " Taikang County ",
+          " Luyi County ",
+          " West Hua ",
+          " Fugou County ",
+          " Shenqiu County ",
+          "Dancheng",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhumadian ",
+        "area": [
+          "Yicheng District",
+          " Queshan County ",
+          " Xincai County ",
+          " Shangcai County ",
+          "Ping-Xi County ",
+          " Biyang County ",
+          " Ping Geography and County ",
+          " Runan County ",
+          " Suiping County ",
+          " Zhengyang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jiaozuo ",
+        "area": [
+          "Jiyuan",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Hubei province ",
+    "city": [
+      {
+        "name": " Martial Han City ",
+        "area": [
+          "Jiang",
+          "Wuchang",
+          " River Han Area ",
+          "Qiaokou District",
+          "Hanyang District",
+          "Qingshan",
+          "Hongshan District",
+          "Dongxihu District",
+          "Hannan District",
+          "Caidian District",
+          "Jiangxia",
+          "Huangbei District",
+          "Xinzhou District",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huangshi ",
+        "area": [
+          "Huangshigang District",
+          "Sai He Mountain",
+          " under land Area ",
+          "Tieshan",
+          "Daye",
+          " yangxin County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shiyan ",
+        "area": [
+          "Zhangwan District",
+          "Maojian District",
+          "Danjiangkou",
+          "County",
+          " Zhushan County ",
+          " Room County ",
+          "Yunxi County",
+          " Zhuxi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jinzhou ",
+        "area": [
+          "Shashi District",
+          "Jinzhou District",
+          "Honghu",
+          "Shishou",
+          "Songzi",
+          "Jianli County",
+          " Public Security County ",
+          " Jiangling County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yichang ",
+        "area": [
+          "Xiling District",
+          " Feng Post Area ",
+          " Point Military District",
+          "Huting District",
+          "Yiling District",
+          "Yidou",
+          "Dangyang",
+          "Zhijiang",
+          "秭 To County ",
+          "Yuanan County",
+          "Xingshan County",
+          " Wufeng Tujia Autonomous County ",
+          "Changyang County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xiangfan ",
+        "area": [
+          "Xiangcheng District",
+          "Fancheng District",
+          "Xiangyang District",
+          "Laohekou",
+          "Zaoyang",
+          "Yicheng",
+          " Nanzhang County ",
+          " Gucheng County ",
+          " Baokang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ezhou ",
+        "area": [
+          "Echeng District",
+          "Huarong District",
+          "Liangzihu District",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jingmen ",
+        "area": [
+          "Dongbao District",
+          "Duodao District",
+          "Zhongxiang",
+          " Jingshan County ",
+          " Shayang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xiaogan ",
+        "area": [
+          "Xiaonan District",
+          "Shi",
+          " an Lu ",
+          "Hanchuan",
+          " Yunmeng County ",
+          " dawu County ",
+          " Xiaochang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yellow Gang ",
+        "area": [
+          "Huangzhou",
+          "Macheng",
+          "Wuxue",
+          "County",
+          "Luotian County",
+          " Xishui County ",
+          "Qichun",
+          " Huangmei County ",
+          " Yingshan County ",
+          "Tuanfeng County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xianning ",
+        "area": [
+          "Xianan District",
+          "Chibi",
+          " ka Fish County ",
+          " Tongshan County ",
+          " Chongyang County ",
+          " Tongcheng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Suizhou ",
+        "area": [
+          "Zengdu District",
+          "Guangshui",
+          "Other"
+        ]
+      },
+      {
+        "name": " Enshi Tujia and Miao Autonomous Prefecture ",
+        "area": [
+          "Enshi",
+          "Lichuan",
+          " Jianshi County ",
+          " to Feng County",
+          " Bar East County ",
+          "Hefeng",
+          " Xuanen County ",
+          " Xianfeng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xiantao ",
+        "area": [
+          "Xiantao"
+        ]
+      },
+      {
+        "name": " Day Retail ",
+        "area": [
+          " Day Door "
+        ]
+      },
+      {
+        "name": " Qianjiang ",
+        "area": [
+          "Qianjiang"
+        ]
+      },
+      {
+        "name": " God Farm Forest ",
+        "area": [
+          " God Farm Forest "
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Hunan province ",
+    "city": [
+      {
+        "name": " Changsha ",
+        "area": [
+          "Yuelu",
+          "Furong",
+          "Tianxin District",
+          "Kaifu",
+          "Yuhua",
+          "Liuyang",
+          "Changsha",
+          " Wangcheng County ",
+          " Ning rural counties ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhuzhou ",
+        "area": [
+          "Tianyuan District",
+          "Hetang District",
+          "Lusong District",
+          "Shifeng",
+          "Liling",
+          " Zhuzhou County ",
+          " Yanling County ",
+          " Chaling County ",
+          " Yau County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xiangtan ",
+        "area": [
+          "Yuetang District",
+          "Yuhu District",
+          " Xiang Township ",
+          "Shaoshan",
+          " Xiangtan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hengyang ",
+        "area": [
+          "Yanfeng District",
+          " Bead Fai Area ",
+          "Shigu District",
+          "Zengxiang District",
+          "Nanyue District",
+          "Leiyang",
+          "Changning",
+          " Hengyang County ",
+          " Balance East County ",
+          " Hengshan County ",
+          " Hengnan County ",
+          " Taiqi East County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shaoyang ",
+        "area": [
+          "Shuangqing District",
+          "Daxiang District",
+          "Beita District",
+          " Martial Gang ",
+          " Shao East County ",
+          " Portal County ",
+          " Xinshao County ",
+          "Suining County",
+          " sunning County ",
+          " Shaoyang County ",
+          " Longhui County ",
+          " Chengbu Miao Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yueyang ",
+        "area": [
+          "Yueyanglou District",
+          "Yunxi District",
+          "Junshan",
+          "Linxiang",
+          " Mimi Luo ",
+          " Yueyang County ",
+          " Xiangyin County ",
+          " Pingjiang County ",
+          "Huarong",
+          "Other"
+        ]
+      },
+      {
+        "name": " Changde ",
+        "area": [
+          "Wuling District",
+          "Dingcheng District",
+          "Jinshi",
+          "Li County ",
+          "Linli",
+          " Taoyuan County ",
+          "Hanshou",
+          " an rural counties ",
+          " Stone Gate County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhangjiajie ",
+        "area": [
+          "Yongding District",
+          "Wulinyuan District",
+          " Cili County ",
+          " Sangzhi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yiyang ",
+        "area": [
+          "Heshan District",
+          "Ziyang District",
+          "Yuanjiang",
+          " Taojiang County ",
+          " South County ",
+          " Anhua County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Chenzhou ",
+        "area": [
+          "Beihu District",
+          "Suxian District",
+          "Zixing",
+          " Yizhang County ",
+          " Rucheng County ",
+          " Anren County ",
+          " Jiahe County ",
+          "Linwu County",
+          " GUI East County ",
+          " Forever changxing ",
+          " Guiyang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yongzhou ",
+        "area": [
+          " Cold water Beach area ",
+          "0 Ling District",
+          " Qiyang County ",
+          "Lanshan County",
+          " Ning far counties ",
+          " San Tin County ",
+          "Dongan County",
+          " Yong County ",
+          " Road County ",
+          " Shuangpai County ",
+          " River Chinese Yao Autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huaihua ",
+        "area": [
+          "Huocheng District",
+          "Hongjiang",
+          "Together with County ",
+          " Yuanling County ",
+          " Chenxi County ",
+          "Xupu County",
+          " Chinese County ",
+          " Xinhuang dong Autonomy County ",
+          " Zhijiang dong Autonomy County ",
+          " Channel Dong Autonomous County ",
+          " Jingzhou Hmong Dong Autonomous County ",
+          " Mayang Miao Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Loudi ",
+        "area": [
+          "Louxing District",
+          "Lengshuijiang",
+          "Lianyuan",
+          " Xinhua County ",
+          " Shuangfeng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xiangxi ",
+        "area": [
+          "Jishou",
+          " Guzhang County ",
+          "Longshan",
+          " Forever Shun County ",
+          "Fenghuang",
+          "Luxi County",
+          " Baojing County ",
+          " Huayuan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Wide East Province ",
+    "city": [
+      {
+        "name": " Guangzhou ",
+        "area": [
+          "Yuexiu",
+          "Liwan District",
+          "Haizhu District",
+          "Tianhe District",
+          "Baiyun",
+          "Huangpu District",
+          "Fanyu District",
+          "Huadou District",
+          "Nansha Area",
+          "Luogang District",
+          "Zengcheng",
+          "Conghua",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shenzhen ",
+        "area": [
+          "Futian District",
+          "Luohu",
+          "Nanshan",
+          "District",
+          "Longgang District",
+          "Yantian District",
+          "Other"
+        ]
+      },
+      {
+        "name": " Dongguan ",
+        "area": [
+          "Guancheng",
+          "Changping",
+          "Tong ha",
+          "Tong ha",
+          "Tong ha",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhongshan ",
+        "area": [
+          "Zhongshan"
+        ]
+      },
+      {
+        "name": " Chaozhou ",
+        "area": [
+          " Xiang Bridge ",
+          " Chaoan County ",
+          "Raoping",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jieyang ",
+        "area": [
+          "Rongcheng District",
+          " yer East County ",
+          " Jiexi County ",
+          " Huilai County ",
+          "Puning",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yunfu ",
+        "area": [
+          "Yuncheng",
+          " New changxing ",
+          " Yunan County ",
+          " Yunan County ",
+          "Luoding",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhuhai ",
+        "area": [
+          "Xiangzhou District",
+          " Bucket Gate Area ",
+          "King Bay District",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shantou Header City ",
+        "area": [
+          "Jinping District",
+          "Haojiang District",
+          "Longhu District",
+          "Chaoyang District",
+          "Chao nan Qu",
+          "Cheng Hai area",
+          " Nanao County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shaoguan ",
+        "area": [
+          "Zhenzhou District",
+          "Wujiang District",
+          "Qujiang District",
+          "Lechang",
+          "Nanxiong",
+          " starts with changxing ",
+          " Renhua County ",
+          " Wengyuan County ",
+          " Xinfeng County ",
+          " Ruyuan Yao Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Foshan ",
+        "area": [
+          "Zen District",
+          "South Sea Area",
+          "Shunde District",
+          "Sanshui District",
+          "Gaoming District",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jiang Retail ",
+        "area": [
+          "Lianjiang District",
+          "Jianghai",
+          "Xinhui Area",
+          "Enping",
+          "Taishan",
+          "Kaiping",
+          "Heshan",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhanjiang ",
+        "area": [
+          "Chikan District",
+          "Xiashan District",
+          " slope Header ",
+          "Mazhang District",
+          "Wuchuan",
+          "Lianjiang",
+          "Leizhou",
+          " Suixi County ",
+          " Xu Sniff counties ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Maoming ",
+        "area": [
+          "Maonan District",
+          "Maogang District",
+          "Huazhou",
+          "Xinyi",
+          "Gaozhou",
+          "Dianbai County",
+          "Other"
+        ]
+      },
+      {
+        "name": " initiates Qing shi ",
+        "area": [
+          "Duanzhou District",
+          "Dinghu District",
+          "Gaoyao",
+          "Sihui",
+          " Guangning County ",
+          "Huaiji County",
+          " Fengkai County ",
+          " de Kyung County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huizhou ",
+        "area": [
+          "Huicheng District",
+          "Huiyang District",
+          " bo Luo County ",
+          " Whitney East County ",
+          "Longmen County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Meizhou ",
+        "area": [
+          "Meijiang District",
+          "Xingning",
+          " Mei County ",
+          " Dapu County ",
+          " Fung Shun County ",
+          " Five Hua ",
+          " Ping far counties ",
+          " Jiaoling County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shanwei ",
+        "area": [
+          "Urban",
+          "Lufeng",
+          " SITC County ",
+          "Luhe County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Heyuan ",
+        "area": [
+          "Yuancheng District",
+          " Zijin County ",
+          "Longchuan County",
+          "Lianping County",
+          " Peace County ",
+          "Dongyuan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yangjiang ",
+        "area": [
+          "Jiangcheng",
+          "Yangchun",
+          " Yangxi County ",
+          " Yang East County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Clear far city ",
+        "area": [
+          "Qingcheng",
+          "Yingde",
+          "Lianzhou",
+          " Buddha Gang County ",
+          " Yangshan County ",
+          " refreshing County ",
+          "Lianshan County",
+          "Liannan County",
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Guangxi ",
+    "city": [
+      {
+        "name": " Nanning ",
+        "area": [
+          "Tsing Xiu District",
+          "Xingning District",
+          " West Xiang Tang area ",
+          "Good Qing qu ",
+          "Jiangnan District",
+          "Yongning District",
+          " Martial Ming County ",
+          " Longan County ",
+          "Mashan County",
+          " Shanglin County ",
+          "Binyang County",
+          " Horizontal County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Liuzhou ",
+        "area": [
+          "District",
+          "Yufeng District",
+          "Liubei District",
+          "Liunan District",
+          " Liujiang County ",
+          " Liucheng County ",
+          " Luzhai County ",
+          " Rongan County ",
+          " Rongshui Miao Autonomous County ",
+          " Sanjiang Dong Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Guilin ",
+        "area": [
+          "Xiangshan District",
+          "Xiufeng District",
+          "Diecai District",
+          "Qixing District",
+          "Yanshan District",
+          " Yangshuo County ",
+          "Lingui County",
+          " Lingchuan County ",
+          " Statewide County ",
+          " Ping Lok County ",
+          "Xingan County",
+          " Guanyang County ",
+          " Lipu County ",
+          "Ziyuan County",
+          " Yongfu County ",
+          "Longsheng County",
+          " Gongcheng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Wuzhou ",
+        "area": [
+          "Wanxiu District",
+          "Dieshan District",
+          "Changzhou District",
+          "Cenxi",
+          "Cangwu County",
+          " Rattan County ",
+          " Mengshan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Beihai ",
+        "area": [
+          "Haicheng",
+          "Yinhai District",
+          "Tieshangang District",
+          " Hepu County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Fangchenggang ",
+        "area": [
+          "GangKou",
+          "Fangcheng",
+          "Dongxing",
+          " Shangsi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Qinzhou ",
+        "area": [
+          "Qingnan District",
+          "Qingbei District",
+          " Lingshan County ",
+          " Pubei County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Guigang ",
+        "area": [
+          "Gangbei District",
+          "Gangnan District",
+          "Qin Tang District",
+          "Guiping",
+          " Pingnan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yulin ",
+        "area": [
+          "Yuzhou District",
+          "Beiliu",
+          " capacity County ",
+          "Luchuan",
+          " Bobai County ",
+          "Xingye County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Baise ",
+        "area": [
+          "Youjiang District",
+          " Lingyun County ",
+          " Pingguo County ",
+          " Xilin County ",
+          "Leye County",
+          " Debao County ",
+          " TianLin County ",
+          " Tianyang County ",
+          " Jingxi County ",
+          " Field East County ",
+          " Napo County ",
+          " Longlin ethnic Autonomy County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hezhou ",
+        "area": [
+          "Eight Step area",
+          "Zhongshan County",
+          " Zhaoping County ",
+          " Fuchuan Yao Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hechi ",
+        "area": [
+          "Jinchengjiang District",
+          "Yizhou",
+          " Tiane County ",
+          "Fengshan County",
+          " Nandan County ",
+          "Donglan County",
+          "All Yao Autonomous County ",
+          "Luo Mulao Autonomous County",
+          " Bar Ma Yao Autonomous County",
+          "Huanjiang County",
+          " Dahua Yao Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " to Bin-City ",
+        "area": [
+          "Xingbin District",
+          "Heshan",
+          " Xiangzhou County ",
+          " Wuxuan County ",
+          " Xincheng County ",
+          " Jinxiu Yao Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Chongzuo City ",
+        "area": [
+          "Jiangzhou District",
+          "Pingxiang",
+          " Ningming County ",
+          " help Sui County ",
+          "Longzhou County",
+          " daxin County ",
+          "???? County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " other cities ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Hainan Province",
+    "city": [
+      {
+        "name": " Haikou ",
+        "area": [
+          "Longhua District",
+          "Xiuying District",
+          "Joan Mountain",
+          " US LAN ",
+          "Other"
+        ]
+      },
+      {
+        "name": " three Sub-city ",
+        "area": [
+          " three Sub-city ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Wuzhishan ",
+        "area": [
+          "Wuzhi Shan"
+        ]
+      },
+      {
+        "name": " Qionghai ",
+        "area": [
+          "Qionghai"
+        ]
+      },
+      {
+        "name": " Zhanzhou ",
+        "area": [
+          "Zhanzhou"
+        ]
+      },
+      {
+        "name": " Wenchang ",
+        "area": [
+          "Wenchang"
+        ]
+      },
+      {
+        "name": " Wanning ",
+        "area": [
+          "Wanning"
+        ]
+      },
+      {
+        "name": " Dongfang ",
+        "area": [
+          "Oriental"
+        ]
+      },
+      {
+        "name": " Clear Mai County ",
+        "area": [
+          "Clear Mai County "
+        ]
+      },
+      {
+        "name": " Ding County ",
+        "area": [
+          " Ding County "
+        ]
+      },
+      {
+        "name": " Tunchang County ",
+        "area": [
+          " Tunchang County "
+        ]
+      },
+      {
+        "name": " Lingao County",
+        "area": [
+          "Lingao County"
+        ]
+      },
+      {
+        "name": " White Sand Li Autonomous County ",
+        "area": [
+          " White Sand Li Autonomous County "
+        ]
+      },
+      {
+        "name": " Changjiang Li Autonomous County ",
+        "area": [
+          " Changjiang Li Autonomous County "
+        ]
+      },
+      {
+        "name": " Ledong County",
+        "area": [
+          "Ledong"
+        ]
+      },
+      {
+        "name": " Lingshui Li Autonomous County ",
+        "area": [
+          " Lingshui Li Autonomous County "
+        ]
+      },
+      {
+        "name": " Baoting Li Miao Autonomous County ",
+        "area": [
+          " Baoting Li Miao Autonomous County "
+        ]
+      },
+      {
+        "name": " Qiongzhongzzx County",
+        "area": [
+          "QIONGZHONGZZX County"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Heavy Qing shi ",
+    "city": [
+      {
+        "name": " Heavy Qing shi ",
+        "area": [
+          "Yuzhong District",
+          "Dadukou District",
+          "Jiangbei District",
+          "Nanan District",
+          "District",
+          "Yubei District",
+          "Banan",
+          "Changshou District",
+          " Double Bridge ",
+          " Shaping Dam Area ",
+          "Wancheng District",
+          "Wanxian District",
+          "Fuling District",
+          "Qianjiang District",
+          "Yongchuan District",
+          "Hechuan District",
+          "Jiangjin District",
+          " Nine long slope area ",
+          "Nanchuan District",
+          " Qijiang County ",
+          " Tongnan County ",
+          " Rongchang County ",
+          " Bishan County ",
+          " Dazu County ",
+          "Tongliang County",
+          " liangping County ",
+          " opens County ",
+          " Loyalty County ",
+          " Chengkou County ",
+          "Dianjiang County",
+          " Wulong County ",
+          " Fengdou County ",
+          "by Section County ",
+          " Yunyang County ",
+          " Wuxi County ",
+          " Wushan County ",
+          " Pillar Tujia autonomous County ",
+          " Xiushan Tujia and Miao autonomous County ",
+          " Youyang Tujia and Miao autonomous County ",
+          " Pengshui Miao Tujia Autonomous County ",
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Sichuan Province ",
+    "city": [
+      {
+        "name": " Chengdu ",
+        "area": [
+          "Qingyang District",
+          "Jinjiang District",
+          "Jinniu District",
+          "Wuhou",
+          "To China ",
+          "Longquanyi",
+          "Qingbaijiang District",
+          "Xindou District",
+          "Wenjiang District",
+          "Doujiangyan",
+          "Pengzhou",
+          " Qiong Lai City ",
+          "Congzhou",
+          " Jintang County ",
+          "郫 County ",
+          " Xinjin County ",
+          " Shuangliu County ",
+          " Pujiang County ",
+          " Dayi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " from Gong ",
+        "area": [
+          "Daan District",
+          "Ziliujin District",
+          "Gongjin District",
+          " along the Beach area ",
+          " Ron County ",
+          " Rich Shun County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Panzhihua ",
+        "area": [
+          "Renhe District",
+          " metric Easy County ",
+          "Yanbian County",
+          "Eastern",
+          "Western",
+          "Other"
+        ]
+      },
+      {
+        "name": " Luzhou ",
+        "area": [
+          "Jiangyang District",
+          "Naxi District",
+          "Longmatan District",
+          "Lu County",
+          " Hejiang County ",
+          " Xuyong County ",
+          " Ancient Rush County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Deyang ",
+        "area": [
+          "Jinyang District",
+          " Wide Han City ",
+          "Shifang",
+          "Mianzhu",
+          "Luojiang County",
+          " in Jiang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Mianyang ",
+        "area": [
+          "Fucheng District",
+          "Youxian District",
+          "Jiangyou",
+          "Yanting County",
+          "Three County ",
+          " Pingwu County ",
+          " an County ",
+          " Zitong County ",
+          " Beichuan Qiang autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Guangyuan ",
+        "area": [
+          " $ Dam Area ",
+          "Chaotian District",
+          " Qingchuan County ",
+          " Wang Cang County ",
+          "Jiange County",
+          "Cangxi County",
+          "Shizhong",
+          "Other"
+        ]
+      },
+      {
+        "name": " Suining ",
+        "area": [
+          "Ship Mountain",
+          "Housing Area",
+          " Shehong County ",
+          " Pengxi County ",
+          " British County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Neijiang ",
+        "area": [
+          "Shizhong",
+          "Dongxing District",
+          "Zizhong County",
+          " Longchang County ",
+          " Granville far counties ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Leshan ",
+        "area": [
+          "Shizhong",
+          " Five-pass Bridge ",
+          "Shawan District",
+          "Jinkouhe District",
+          "Emeishan",
+          "Jiajiang County",
+          " Jingyan County ",
+          " Bullock is a county ",
+          " Muchuan County ",
+          "Mabian County",
+          " e Border Yi Autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Nanchong ",
+        "area": [
+          "Shunqing District",
+          "Gaoping District",
+          "Jialing",
+          "Langzhong",
+          "Yingshan County",
+          " Pengan County ",
+          "Yilong County",
+          " South County ",
+          " Xichong County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Meishan ",
+        "area": [
+          "Dongpo District",
+          " Renshou County ",
+          " Pengshan County ",
+          " Hongya County ",
+          " Danleng County ",
+          " Qingshen County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " appropriate Bin-City ",
+        "area": [
+          "Cuiping District",
+          " appropriate Bin County",
+          "Xingwen County",
+          " Nanxi County ",
+          "Dove County ",
+          "Changning County",
+          " High County ",
+          " Jiangan County ",
+          "Done Lianghen ",
+          " Pingshan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Guangan ",
+        "area": [
+          "Guangan District",
+          "Huaying",
+          " Yuechi County ",
+          "Linshui County",
+          " Martial wins County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Dazhou ",
+        "area": [
+          "Tongchuan District",
+          "Wanyuan",
+          " up to County ",
+          " Channel County ",
+          " Declare Han County ",
+          " Kaijiang County ",
+          " Dazhu County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yaan ",
+        "area": [
+          "Yucheng",
+          " Lushan County ",
+          " Asbestos County ",
+          " Mountains County ",
+          " Tianquan County ",
+          "Xingjing County",
+          " Treasure changxing ",
+          "Hanyuan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Bazhong ",
+        "area": [
+          "Bazhou District",
+          " Nanjiang County ",
+          " Pingchang County ",
+          " Tongjiang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ziyang ",
+        "area": [
+          "Yanjiang District",
+          "Jianyang",
+          " Anyue County ",
+          "Lezhi County",
+          "Other"
+        ]
+      },
+      {
+        "name": " A Dam Tibetan and Qiang Autonomous Prefecture ",
+        "area": [
+          "Maerkang County",
+          " Jiuzhaigou County ",
+          "Hongyuan County",
+          " Wenchuan County ",
+          "A Dam County ",
+          " rationale County ",
+          " if cover County ",
+          " Kim County ",
+          " Blackwater County ",
+          " Jinchuan County ",
+          " Songpan County ",
+          " Rangtang County ",
+          " Mau County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ganzi Tibetan Autonomous Prefecture ",
+        "area": [
+          " kangding County ",
+          " Danba County ",
+          " Luhuo County ",
+          " Nine Dragon County ",
+          " Ganzi County ",
+          " Yajiang County ",
+          " New Dragon County ",
+          " Daofu County ",
+          " White Jade County ",
+          " Litang County ",
+          " Dege County ",
+          "Xiangcheng County",
+          " Shiqu County ",
+          " Daocheng County ",
+          " Seda County ",
+          " Batang County ",
+          "Luding County",
+          " Derong County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Liangshan Yi Autonomous Prefecture ",
+        "area": [
+          "Xichang",
+          " Meigu County ",
+          " Zhao Jue County ",
+          " Jinyang County ",
+          " Ganluo County ",
+          " Butuo County ",
+          " Leibo County ",
+          " Puge County ",
+          " Ningnan County ",
+          " Xide County ",
+          " will East County ",
+          " Yuexi County ",
+          " Huili County ",
+          "Yanyuan County",
+          " Johnson County ",
+          " Mianning County ",
+          " Muli Tibetan Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Guizhou province ",
+    "city": [
+      {
+        "name": " Guiyang ",
+        "area": [
+          "Nanming District",
+          "Yunyan District",
+          "Huaxi District",
+          "Wudang",
+          "Baiyun",
+          "Xiaohe District",
+          " Clear Town ",
+          " Kaiyang County ",
+          " Xiuwen County ",
+          " Xifeng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " six poached City ",
+        "area": [
+          "Zhong Mountain",
+          " Shuicheng County ",
+          "Pan County",
+          "Liuzhi",
+          "Other"
+        ]
+      },
+      {
+        "name": " Compliance Semantic City ",
+        "area": [
+          "Honghuagang District",
+          "Hui Chuan qu",
+          "Chishui",
+          " kernel Huai City ",
+          " Compliance Yixian ",
+          "Suiyang County",
+          " Tongzi County ",
+          "Xishui County",
+          "Fenggang County",
+          " Shoun County ",
+          " more Kyung County ",
+          " Meitan County ",
+          " Daozhen Gelao Miao Autonomous County ",
+          "Wuchuan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " an Shun City ",
+        "area": [
+          "Xixiu District",
+          " Puding County ",
+          " Ping Dam County ",
+          "Zhenning Buyei and Miao Autonomous County",
+          " Ziyun Hmong autonomous County ",
+          " Guanling Buyei and Miao autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Tongren Prefecture ",
+        "area": [
+          "Tongren",
+          " Dejiang County ",
+          " Jiangkou County ",
+          " Sinan County ",
+          " Shiqian County ",
+          " Jade Dong Autonomous County ",
+          " Songtao Miao Autonomous County ",
+          " Yinjiang Tujia and Miao autonomous County ",
+          "Along the River Tujia Autonomous County ",
+          "Wanshante District",
+          "Other"
+        ]
+      },
+      {
+        "name": " Bijie Prefecture ",
+        "area": [
+          "Bijie",
+          " Qianxi County ",
+          " Generous County ",
+          "Zhijin County",
+          " Sands County ",
+          " Hezhang County ",
+          "Nayong County",
+          " Weining Yi Hui Miao Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Southwestern Buyi Buyei and Miao Autonomous Prefecture ",
+        "area": [
+          "Xingyi",
+          " Look Mo County ",
+          "Xingren County",
+          " PU County ",
+          " Ceheng County ",
+          " Qinglong County ",
+          "Zhenfeng County",
+          " an Dragon County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Guizhou Southeast Hmong and Dong Autonomous Prefecture ",
+        "area": [
+          "Carey",
+          " Shibing County ",
+          " Edo County ",
+          "Jinping County",
+          "Zhenyuan County",
+          " Majiang County ",
+          " Taijiang County ",
+          " Tianzhu County ",
+          " Huang County ",
+          " Rongjiang County ",
+          "Jianhe County",
+          " Sansui County ",
+          " Ray Mts. County ",
+          " liping County ",
+          " Cengong County ",
+          " Danzhai County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Qiannan Buyei and Miao Autonomous Prefecture ",
+        "area": [
+          "Douyun",
+          "Fu Quan City",
+          "Guiding County",
+          " Huishui County ",
+          "Luodian County",
+          " Wengan County ",
+          " Libo County ",
+          "Longli County",
+          " Pingtang County ",
+          "Changshun County",
+          " Dushan County ",
+          " du aquarium autonomy County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Yunnan Province ",
+    "city": [
+      {
+        "name": " Kunming ",
+        "area": [
+          "Panlong District",
+          " Five China ",
+          "Guandu",
+          "Xishan",
+          "Dongchuan District",
+          "Anning",
+          "is Tribute County ",
+          " Jinning County ",
+          " fumin County ",
+          " Yiliang County ",
+          " Songming County ",
+          " Shilin Yi Autonomous County ",
+          " Lu persuade Yi Miao autonomous County",
+          "Xundian Hui Yi Autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Qujing ",
+        "area": [
+          "Qiling District",
+          "Xuanwei",
+          "Malong County",
+          " Zhanyi County ",
+          " Fuyuan County ",
+          "Luoping County",
+          "Shizong County",
+          "Luliang County",
+          " will Ze County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yuxi ",
+        "area": [
+          "Hongta District",
+          " Jiangchuan County ",
+          " Chengjiang County ",
+          " Tonghai County ",
+          "Huaning County",
+          " Easy Gate County ",
+          " Eshan Yi Autonomous County ",
+          " Xinping Yi Dai Autonomous County ",
+          "Yuanjiang of the Hani nationality the Dai Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Baoshan ",
+        "area": [
+          "Longyang District",
+          " Shidian County ",
+          "Tengchong County",
+          "Longling County",
+          " Changning County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhaotong ",
+        "area": [
+          "Zhaoyang District",
+          "Ludian County",
+          " Qiaojia County ",
+          "Yanjin County",
+          " Mark County ",
+          " Yongshan County ",
+          "Suijiang County",
+          "Zhenxiong County",
+          " Yiliang County ",
+          " Prestige County ",
+          " Shuifu County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Lijiang ",
+        "area": [
+          "Gu Cheng Qu",
+          " Forever wins County ",
+          "Huaping County",
+          " Jade Dragon Naxi autonomous County",
+          " Ninglang Yi Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Puer City ",
+        "area": [
+          "Simao District",
+          " Puer Hani Yi Autonomous County ",
+          " Mojiang Hani Autonomous County ",
+          " King Eastern Yi Autonomous County",
+          " Jinggu Dai Yi Autonomous County ",
+          "Zhenyuan Yi Ethnic Hani Lahing",
+          " Jiangcheng Nationality Yi Autonomous County ",
+          " Meng Even the Dai nationality, WA autonomous County",
+          "Lancang County",
+          " Ximeng WA Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Lincang City ",
+        "area": [
+          "Lin Xiang Area",
+          "Fengqing County",
+          " Cloud County ",
+          " Yongde County ",
+          "Zhenkang County",
+          "Shuangjiang Lahu Ethnic Minority nationality Dai Autonomous County ",
+          " Geng ma Dai wa Autonomous County",
+          "Cangyuan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " dehong dai King quite a family from governs the state ",
+        "area": [
+          "Luxi",
+          " Rui Laguna ",
+          " Lianghe County ",
+          " Yingjiang County ",
+          "Longchuan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Nujiang Autonomous Prefecture ",
+        "area": [
+          "Lushui County",
+          " Bliss Tribute County ",
+          "Gongsan",
+          "Lanping Bai Pumi Autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " di Qing Zang Autonomous Prefecture ",
+        "area": [
+          " Shangri-La County ",
+          " de Chin County ",
+          "Weixi County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Dali Prefecture ",
+        "area": [
+          "Dali",
+          " Xiangyun County ",
+          "Binchuan County",
+          " Midu County ",
+          " yongping County ",
+          " Cloud Dragon County ",
+          " Eryuan County ",
+          "Jianchuan County",
+          "Heqing County",
+          " Yangbi Yi Autonomous County ",
+          " South Jian Yi Autonomous County",
+          " Weishan Yi Hui Autonomous Nationality County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Chuxiongzhou ",
+        "area": [
+          "Chuxiong",
+          " Shuangbai County ",
+          " Muding County ",
+          " South Hua ",
+          " Yaoan County ",
+          " Dayao County ",
+          " Yongren County ",
+          " $ Seek County ",
+          " wuding County ",
+          " Lufeng County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Honghe ",
+        "area": [
+          " Mengzi County ",
+          "Gejiu",
+          " opens far city ",
+          "Lvchun County",
+          " Jianshui County ",
+          " Shiping County ",
+          " Maitreya County ",
+          "Luxi County",
+          " Yuanyang County ",
+          "Honghe County",
+          " Jinping Hmong Yao Dai autonomous County ",
+          " Estuary Yao Autonomous County ",
+          " Screen side Hmong autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Wenshan ",
+        "area": [
+          " Wenshan County ",
+          "Yanshan",
+          " Xichou County ",
+          " Malipo County ",
+          "Maguan County",
+          " Qiubei County ",
+          " Guangnan County ",
+          " Funing County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " West Double na Dai Autonomous Prefecture ",
+        "area": [
+          "Jinghong",
+          " Menghai County ",
+          " Mengla County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Tibet ",
+    "city": [
+      {
+        "name": " Pull Sah ",
+        "area": [
+          "Chengguan District",
+          " Linzhou County ",
+          " Dangxiong County ",
+          " Nimu County ",
+          " Qushui County ",
+          " Heap long Deqing County",
+          " Dazi County ",
+          " Maizhokunggar County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Nagchu ",
+        "area": [
+          "A County ",
+          " Jiali County ",
+          " such as County ",
+          "Nierong County",
+          " Andover County ",
+          " Shenza County ",
+          " Cable County ",
+          " Bangor County ",
+          " Baqing County ",
+          " Nemo Ma County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Changdu ",
+        "area": [
+          " Qamdo County ",
+          " Jiangda County ",
+          "Gongjue County",
+          "Leiwuqi County",
+          " Dingqing County ",
+          " Chaya County ",
+          " Basu County ",
+          " left Tribute County ",
+          " Mangkang County ",
+          " Luolong County ",
+          "Bianba County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Linzhi ",
+        "area": [
+          " Linzhi County ",
+          " Gongbo'gyamda County ",
+          " Milin County ",
+          " Mutuo County ",
+          " Bomi County ",
+          " Chayu County ",
+          " Lang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shannan ",
+        "area": [
+          "is East County ",
+          " Zanang County ",
+          "Gongga County",
+          " Sangri County ",
+          "Qiongjie County",
+          " Qusong County ",
+          " Cuomei County ",
+          " Luoza County ",
+          " plus Check County ",
+          " Longzi County ",
+          "Cuona County",
+          " Langkazi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Day the region ",
+        "area": [
+          " Day the city ",
+          " Nanmulin County ",
+          " Jiangzi County ",
+          "The same as County ",
+          "Sajia County",
+          " Lazi County ",
+          " Angren County ",
+          "Xietongmen County",
+          " Bailang County ",
+          " Renbu County ",
+          " Kang Horse County ",
+          " Set Jie ",
+          " Zhongba County ",
+          "Yadong County",
+          " Kuala Lumpur County ",
+          "Nielamu County",
+          "Saga County",
+          "Gangba County",
+          "Other"
+        ]
+      },
+      {
+        "name": " ALDQ ",
+        "area": [
+          " Karma County ",
+          " Universal Lan County ",
+          " Zanda County ",
+          " Saturn County ",
+          " Geji County ",
+          " Change County ",
+          " Cuoqin County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Shaanxi Province ",
+    "city": [
+      {
+        "name": " Xi ' an ",
+        "area": [
+          "Lianhu District",
+          "Xincheng",
+          "Beilin District",
+          "Yanta District",
+          " BA Bridge ",
+          "Weiyang District",
+          "Yanliang",
+          "Lintong",
+          "Changan District",
+          " Gaoling County ",
+          "Lantian County",
+          "County",
+          " weeks to County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Tongchuan ",
+        "area": [
+          "Yaozhou District",
+          "Wangyi District",
+          "Yintai District",
+          " Yijun County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Treasure Chicken City ",
+        "area": [
+          " Wei Waterfront ",
+          "Jintai District",
+          "Chencang",
+          " qi County ",
+          "Fengxiang County",
+          "Long County",
+          " Taibai County ",
+          " Linyou County ",
+          " help Wind County ",
+          " Qianyang County ",
+          " Eyebrow County ",
+          "Fengxian",
+          "Other"
+        ]
+      },
+      {
+        "name": " Xianyang ",
+        "area": [
+          "Qindu",
+          "Weicheng District",
+          "Yangling District",
+          "Xingping",
+          " Liquan County ",
+          "Jingyang County",
+          " Yongshou County ",
+          " Sanyuan County ",
+          " bin County ",
+          " Xunyi County ",
+          "Changwu County",
+          " Dry County ",
+          " Martial Arts County ",
+          " Chunhua County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Weinan ",
+        "area": [
+          "Linwei",
+          "Hancheng",
+          "Huayin",
+          " Pucheng County ",
+          " Tongguan County ",
+          " Whitewater County ",
+          " Chengcheng County ",
+          "Hua",
+          " Heyang County ",
+          " Fuping County ",
+          " Dali County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yanan ",
+        "area": [
+          "Baota District",
+          " Ansai County ",
+          " LuoChuan County ",
+          " Child Long County ",
+          " Huangling County ",
+          " Yanchuan County ",
+          " Rich County ",
+          " deferred Long County ",
+          " Oasis County ",
+          " Yichuan County ",
+          " Zhidan County ",
+          " Yellow Dragon County ",
+          " Wuqi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hanzhong ",
+        "area": [
+          "Hantai District",
+          " leave Dam County ",
+          "Zhenba County",
+          " Chenggu County ",
+          " South Zheng County ",
+          " Foreign County ",
+          " Ning Strong County ",
+          " Foping County ",
+          " Mian County ",
+          " West rural counties ",
+          " Lveyang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Yulin ",
+        "area": [
+          "Yuyang District",
+          " Clear Jian County ",
+          "Suide County",
+          " Shenmu County ",
+          " Good County ",
+          " Fugu County ",
+          " Zizhou County ",
+          " Jing Edge County ",
+          " Hengshan County ",
+          " Mizhi County ",
+          " Wubao County ",
+          " Set Edge County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Ankang ",
+        "area": [
+          "Hanbing District",
+          " Ziyang County ",
+          "Langao County",
+          " Xunyang County ",
+          "Zhenping County",
+          " Pingli County ",
+          " Shiquan County ",
+          " Ning Shan County",
+          " Baihe County ",
+          "Hanyin County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shangluo ",
+        "area": [
+          "Shangzhou District",
+          "Zhenan County",
+          " Shanyang County ",
+          " Luonan County ",
+          " Shangnan County ",
+          " Dan Feng County",
+          " Zhashui County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " gan To the province ",
+    "city": [
+      {
+        "name": " Lanzhou City ",
+        "area": [
+          "Chengguan District",
+          "Qilihe District",
+          "Xigu",
+          "Anning",
+          "Honggu District",
+          " Yongdeng County ",
+          " Gao Lan County ",
+          "Yuzhong County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jiayuguan ",
+        "area": [
+          "Jiayuguan",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jinchang ",
+        "area": [
+          "Jinchuan District",
+          " Yongchang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " White Silver City ",
+        "area": [
+          " White Silver Area ",
+          "Pcs District",
+          " Jing far counties ",
+          " Huining County ",
+          " Jingtai County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Tianshui ",
+        "area": [
+          " Clear Water County ",
+          " Qinan County ",
+          " Gangu County ",
+          " Wushan County ",
+          "Zhangjiachuan County",
+          "Beidao",
+          "Qincheng",
+          "Other"
+        ]
+      },
+      {
+        "name": " Wuwei ",
+        "area": [
+          "Liangzhou",
+          " Minqin County ",
+          " Gulang County ",
+          " Tianzhu Tibetan Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jiuquan ",
+        "area": [
+          "Suzhou District",
+          " Jade Retail ",
+          "Dunhuang",
+          " urn County ",
+          "Subei County",
+          " Akesai Suffolk Autonomous County",
+          " Anxi County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Zhangye ",
+        "area": [
+          "Ganzhou District",
+          " min Lok County ",
+          "Linze County",
+          "Platform County ",
+          " Shandan County ",
+          "Sunan",
+          "Other"
+        ]
+      },
+      {
+        "name": " Qingyang City ",
+        "area": [
+          "Xifeng District",
+          "Qingcheng County",
+          "Huan County",
+          "Huachi County",
+          " Heshui County ",
+          " Zhengning County ",
+          " Ning County ",
+          "Zhenyuan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Pingliang ",
+        "area": [
+          "Kongtong District",
+          "Jingchuan County",
+          " Lingtai County ",
+          " Thrall County ",
+          "Huating County",
+          " Zhuanglang County ",
+          " Jingning County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Dingxi City ",
+        "area": [
+          "Anding District",
+          " Tongwei County ",
+          "Lintao County",
+          " Zhang County ",
+          " min County ",
+          " Weiyuan County ",
+          "Longxi County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Longnan ",
+        "area": [
+          "Wudou District",
+          "To County ",
+          " Dangchang County ",
+          " Kang County ",
+          " Text County ",
+          "and County ",
+          " courtesy County ",
+          " Liangdang County ",
+          " Emblem County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Linxia Hui Autonomous Prefecture ",
+        "area": [
+          "Linxia",
+          "Linxia County",
+          " Kang Lok County ",
+          " Yongjing County ",
+          " Guanghe County ",
+          "and County ",
+          "Dongxiangzu Zizhixian",
+          "Jishishan",
+          "Other"
+        ]
+      },
+      {
+        "name": " Gannan Tibetan Autonomous Prefecture ",
+        "area": [
+          "Cooperation City",
+          "Lintan County",
+          " Zhuoni County ",
+          " Zhouqu County ",
+          " Diebu County ",
+          "Maqu County",
+          " Luqu County ",
+          " Xiahe County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Qinghai Province ",
+    "city": [
+      {
+        "name": " xining ",
+        "area": [
+          "District",
+          " City Eastern ",
+          "Chengxi District",
+          "Chengbei District",
+          " Huangyuan County ",
+          " Huangzhong County ",
+          " Datong Hui Tu autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Sea East Region ",
+        "area": [
+          " Safe County ",
+          "Ledou County",
+          "And the Hui autonomous territories County ",
+          " Mutual Help Tu autonomous County ",
+          " Hualong Hui Autonomous County ",
+          " Xunhua Salar Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Haibei Tibetan Autonomous Prefecture ",
+        "area": [
+          " Haiyan County ",
+          " Taiqi Lianghen ",
+          "Gangcha County",
+          "Menyuanhz County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hainan Tibetan Autonomous Prefecture ",
+        "area": [
+          " Republic County ",
+          " Tongde County ",
+          "Guide",
+          "Xinghai County",
+          "Guinan County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Huangnan Tibetan Autonomous Prefecture ",
+        "area": [
+          " Tongren County ",
+          " Jianza County ",
+          "Zeku",
+          " Henan Mongolian Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " golog Tibetan Autonomous Prefecture ",
+        "area": [
+          "Maqin County",
+          " class Ma County ",
+          " Gande County ",
+          " Shunda County ",
+          " Persistent County ",
+          "Maduo County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Jade Tree Tibetan Autonomous Prefecture ",
+        "area": [
+          " Jade Tree County ",
+          "Zaduo County",
+          " Chenduo County ",
+          " Zhiduo County ",
+          " sac Humble County ",
+          " Qumalai County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Sea Simon Haixi Tibetan Autonomous Prefecture ",
+        "area": [
+          "Delinha",
+          " Grid Wood City ",
+          "Wulan County",
+          " all Lan County ",
+          " Tianjun County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Ningxia ",
+    "city": [
+      {
+        "name": " Yinchuan ",
+        "area": [
+          "Hing Ching District",
+          "Xixia District",
+          " Gold Fung-Zone ",
+          "Lingwu",
+          " Yongning County ",
+          "Helan",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shizuishan ",
+        "area": [
+          "Dawukou District",
+          " Whitney Farm ",
+          " Ping Luo County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Wuzhong ",
+        "area": [
+          "Litong",
+          " Green Copper Gap City ",
+          "Yanchi County",
+          " Concentric County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Guyuan ",
+        "area": [
+          "Yuanzhou District",
+          " Sigi County ",
+          " Lund County ",
+          "Jingyuan",
+          " Pengyang County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Guardian ",
+        "area": [
+          " Sand slope Header ",
+          " Zhongning County ",
+          " Haiyuan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Xinjiang ",
+    "city": [
+      {
+        "name": " Urumqi ",
+        "area": [
+          "Ürümqi",
+          "Shayibake",
+          "District",
+          "Shuimogou District",
+          "Toutunhe District",
+          "Danbancheng District",
+          "Dongshan",
+          "Urumqi County",
+          "Other"
+        ]
+      },
+      {
+        "name": " carat mal-City ",
+        "area": [
+          " carat Marina ",
+          "Duzishan",
+          " White-alkali Beach area ",
+          "Wuerhe",
+          "Other"
+        ]
+      },
+      {
+        "name": " Spit Region ",
+        "area": [
+          " Spit Zulu ",
+          "The trader Lame County ",
+          " Shanshan County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hami ",
+        "area": [
+          "Hami",
+          " Yiwu County ",
+          " Barry Kwan-ha Suffolk Autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Hotan ",
+        "area": [
+          "Hetian",
+          " Hotan County ",
+          " Luopu County ",
+          " Minfeng County ",
+          " Pishan County ",
+          " Celei County ",
+          " Yutian County ",
+          " Moyu County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Acme su Region ",
+        "area": [
+          " Acme Sioux City ",
+          " Wensu County ",
+          " Shaya County ",
+          " Baicheng County ",
+          " Awati County ",
+          "Kuche County",
+          " Keping County ",
+          "New and County ",
+          "Wushi County",
+          "Other"
+        ]
+      },
+      {
+        "name": " Kashgar ",
+        "area": [
+          "Kashi",
+          " Bachu County ",
+          "Zepu County",
+          " Gamma Division County ",
+          " Yecheng County ",
+          " Yuepuhu County ",
+          " Shulei County ",
+          " Maigaiti County ",
+          " Yingjisha County ",
+          " Lisa car counties ",
+          " Shufu County ",
+          " Tash Kurgan Tajik autonomous County",
+          "Other"
+        ]
+      },
+      {
+        "name": " G-cumin Sioux Prefecture ",
+        "area": [
+          "A Figure City ",
+          " Aheqi County ",
+          "Wuqia County",
+          " Aketao County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Bayangol Mongolian Autonomous Prefecture ",
+        "area": [
+          "Kuerlei",
+          "and static County ",
+          " Weili County ",
+          " and Shuo County ",
+          " Qiemo County ",
+          " Bohu County ",
+          "Luntai County",
+          " Ruoqiang County ",
+          " Yanqi Hui Autonomous County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Changji Hui Autonomous Prefecture ",
+        "area": [
+          "Changji",
+          "Fukang",
+          " Qitai County ",
+          "Manasi County",
+          " Jimu Sal County ",
+          " Call Figure Wall County ",
+          " Wood Base Kazakh autonomous counties ",
+          "Miquan",
+          "Other"
+        ]
+      },
+      {
+        "name": " bo Tara Mongol Autonomous Prefecture ",
+        "area": [
+          " bo le city ",
+          " Jinghe County ",
+          " Hot Springs County ",
+          "Other"
+        ]
+      },
+      {
+        "name": " Shihezi ",
+        "area": [
+          "Shihezi"
+        ]
+      },
+      {
+        "name": " Allah ",
+        "area": [
+          " Allah "
+        ]
+      },
+      {
+        "name": " Tumshuk ",
+        "area": [
+          "Tumshuk"
+        ]
+      },
+      {
+        "name": " Five channels ",
+        "area": [
+          "Five home drains"
+        ]
+      },
+      {
+        "name": " ili ha Suffolk ",
+        "area": [
+          "Yining",
+          "Kuitun",
+          " Yining County ",
+          " Teksi County ",
+          " Nileike County ",
+          " Zhao Sioux County ",
+          " Xinyuan County ",
+          " Huocheng County ",
+          " Gongliu County ",
+          " Reconnaissance Char XI ' an autonomous county",
+          "Tacheng",
+          "Aletai",
+          "Other"
+        ]
+      },
+      {
+        "name": " Other ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Taiwan Province",
+    "city": [
+      {
+        "name": " Taipei ",
+        "area": [
+          "Neihu District",
+          "Southern Harbour",
+          "Zhongzheng District",
+          " million China ",
+          "Datong District",
+          "District",
+          "Songshan",
+          "Daan District",
+          " Letter Semantic Area ",
+          "Wenshan",
+          "Shilin District",
+          "Beitou District"
+        ]
+      },
+      {
+        "name": " new Bei ",
+        "area": [
+          " Board Bridge ",
+          "Hsichih District",
+          "New Store",
+          "Other"
+        ]
+      },
+      {
+        "name": " Taoyuan ",
+        "area": [
+          "Other"
+        ]
+      },
+      {
+        "name": " Taizhong ",
+        "area": [
+          "Other"
+        ]
+      },
+      {
+        "name": " Tainan ",
+        "area": [
+          "Other"
+        ]
+      },
+      {
+        "name": " Kaohsiung ",
+        "area": [
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " o Door ",
+    "city": [
+      {
+        "name": " o Door ",
+        "area": [
+          " Flower Marton Area ",
+          "Santo Antonio District",
+          "Lobby",
+          "Wangdet",
+          "Wind Shun Tong District",
+          "Jia Die Hall Area",
+          " Holy Party Ji Parish ",
+          " Road Dang ",
+          "Other"
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Hong Kong ",
+    "city": [
+      {
+        "name": " Hong Kong ",
+        "area": [
+          "Shenshuishe",
+          "Youjianwang",
+          " Nine Longcheng District",
+          "Huangdaxian District",
+          "Guantang District",
+          "North",
+          "Dapu District",
+          "Shatian District",
+          " West Tribute ",
+          "Yuanlang District",
+          " Tun Gate Area ",
+          "Quanwan District",
+          "Kuiqing District",
+          " from Island ",
+          "Western",
+          "Wanzhai District",
+          "Eastern",
+          "Southern",
+          "Other"
+        ]
+      }
+    ]
+  }
+]
