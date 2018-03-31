@@ -130,8 +130,8 @@ If the default style does not meet your expectations, You can also customize att
             public void onTimeSelect(Date date,View v) {//callback
                 yourTextView.setText(getTime(date));
             }
-        })
-                .setType(new boolean[]{false, false, false, true, true, false})// type of date 
+        })     
+                .setType(new boolean[]{false, false, false, true, true, false})   // year-month-day-hour-min-sec
                 .setCancelText("Cancel")
                 .setSubmitText("Sure")
                 .setContentSize(18)
@@ -200,7 +200,7 @@ dtpvOptions = new  OptionsPickerView.Builder(this, new OptionsPickerView.OnOptio
             public void onTimeSelect(Date date, View v) {//call back
                 btn_CustomTime.setText(getTime(date));
             }
-        }).setType(new boolean[]{true, true, true, false, false, false})// year - month - day
+        }).setType(new boolean[]{true, true, true, false, false, false})   // year-month-day-hour-min-sec
                 .setDate(selectedDate)
                 .setRangDate(startDate, endDate)
                 .setLayoutRes(R.layout.pickerview_custom_time, new CustomListener() {
