@@ -5,7 +5,7 @@ ext {
     LIBRARY_NAME = 'DateTimeOptionsPicker'
     PUBLISH_GROUP_ID = 'com.github.chivorns'
     PUBLISH_ARTIFACT_ID = LIBRARY_NAME.toLowerCase()
-    PUBLISH_VERSION = '1.0.0'
+    PUBLISH_VERSION = '1.0.1'
 
     // Bintray
     BINTRAY_REPO = 'maven'
@@ -28,13 +28,13 @@ ext {
 }
 
 android {
-    compileSdkVersion 26
-    buildToolsVersion "26.0.2"
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
         minSdkVersion 9
-        targetSdkVersion 26
-        versionCode 1
+        targetSdkVersion 27
+        versionCode 2
         versionName "$PUBLISH_VERSION"
     }
     buildTypes {
@@ -59,7 +59,7 @@ allprojects {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
 }
 
 apply from: 'https://raw.githubusercontent.com/Chivorns/publish-android-library-plugin/master/publish_lib_v1.gradle'
