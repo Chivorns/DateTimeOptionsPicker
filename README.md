@@ -53,7 +53,7 @@ This is a iOS imitaiton of the PickerView control, a time selector and option se
 
 ### 1.Add the dependency：
 ```gradle
-compile 'com.github.chivorns:datetimeoptionspicker:1.0.1'
+implementation 'com.github.chivorns:datetimeoptionspicker:1.0.1'
 ```
 
 ### Maven
