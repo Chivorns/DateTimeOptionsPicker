@@ -1,5 +1,6 @@
 
 ## DateTimeOptionsPicker
+[ ![Download](https://api.bintray.com/packages/chivorn/maven/datetimeoptionspicker/images/download.svg) ](https://bintray.com/chivorn/maven/datetimeoptionspicker/_latestVersion)
 
 This is a iOS imitaiton of the PickerView control, a time selector and option selector which has features as follows:
 - DateTimePickerView: Support for the year, month, day, hour and other format.
@@ -52,7 +53,7 @@ This is a iOS imitaiton of the PickerView control, a time selector and option se
 
 ### 1.Add the dependency：
 ```gradle
-compile 'com.github.chivorns:datetimeoptionspicker:1.0.0'
+compile 'com.github.chivorns:datetimeoptionspicker:1.0.1'
 ```
 
 ### Maven
